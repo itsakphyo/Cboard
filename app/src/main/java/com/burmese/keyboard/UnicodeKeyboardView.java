@@ -16,6 +16,9 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.widget.OverScroller;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /** Lightweight renderer with one shared geometry model for drawing and touch input. */
 @SuppressLint("ViewConstructor")
 final class UnicodeKeyboardView extends View {
@@ -51,6 +54,9 @@ final class UnicodeKeyboardView extends View {
     private int pressedSlot = NO_SLOT;
     private boolean pressedInside;
     private boolean longPressTriggered;
+    // Cache fitted text sizes to avoid recalculating font metrics on every draw frame.
+    // Invalidated when the page changes or the view is resized.
+    private final Map<Integer, Float> textSizeCache = new HashMap<>();
     private final Runnable longPressRunnable = new Runnable() {
         @Override public void run() {
             if (activePointerId == NO_POINTER || pressedSlot == NO_SLOT || !pressedInside) return;
@@ -94,6 +100,7 @@ final class UnicodeKeyboardView extends View {
 
     void show(KeyboardLayout.Page page) {
         this.page = page;
+        textSizeCache.clear();
         scroller.abortAnimation();
         scrollState.reset(maxScrollOffsetPx(page, getHeight()));
         clearPress();
@@ -102,6 +109,7 @@ final class UnicodeKeyboardView extends View {
 
     @Override protected void onSizeChanged(int width, int height, int oldWidth, int oldHeight) {
         super.onSizeChanged(width, height, oldWidth, oldHeight);
+        textSizeCache.clear();
         scroller.abortAnimation();
         scrollState.reset(maxScrollOffsetPx(page, height));
     }
@@ -184,7 +192,7 @@ final class UnicodeKeyboardView extends View {
             }
             boolean shiftIconFilled = pressed
                     || (slot.key.action == KeyboardLayout.Action.TOGGLE_SHIFT && page.shiftActive);
-            drawLabel(canvas, drawRect, slot.key, shiftIconFilled);
+            drawLabel(canvas, drawRect, slot.key, shiftIconFilled, index);
         }
     }
 
@@ -205,7 +213,8 @@ final class UnicodeKeyboardView extends View {
         canvas.drawRoundRect(rect, radius, radius, paint);
     }
 
-    private void drawLabel(Canvas canvas, RectF rect, KeyboardLayout.Key key, boolean pressed) {
+    private void drawLabel(Canvas canvas, RectF rect, KeyboardLayout.Key key, boolean pressed,
+            int slotIndex) {
         paint.setColor(key.style == KeyboardLayout.Style.ENTER ? Color.WHITE : LABEL);
         if (key.action == KeyboardLayout.Action.TOGGLE_SHIFT
                 || key.action == KeyboardLayout.Action.ENTER
@@ -216,7 +225,14 @@ final class UnicodeKeyboardView extends View {
         paint.setTextAlign(Paint.Align.CENTER);
         paint.setFakeBoldText(false);
 
-        float textSize = fittedTextSize(key, rect);
+        Float cachedSize = textSizeCache.get(slotIndex);
+        float textSize;
+        if (cachedSize != null) {
+            textSize = cachedSize;
+        } else {
+            textSize = fittedTextSize(key, rect);
+            textSizeCache.put(slotIndex, textSize);
+        }
         paint.setTextSize(textSize);
         paint.getFontMetrics(fontMetrics);
         float lineHeight = fontMetrics.descent - fontMetrics.ascent;
@@ -333,6 +349,27 @@ final class UnicodeKeyboardView extends View {
                 setInitialPress(event.getX(0), event.getY(0));
                 if (pressedInside) performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP);
                 return true;
+            case MotionEvent.ACTION_POINTER_DOWN: {
+                // A second finger touched while the first is still down.
+                // Immediately commit the pending key of the first pointer (if it was
+                // not long-pressed) so fast two-thumb typing doesn't drop keystrokes.
+                int newIndex = event.getActionIndex();
+                if (!longPressTriggered && pressedInside && pressedSlot != NO_SLOT) {
+                    KeyboardLayout.Key pendingKey = page.slots.get(pressedSlot).key;
+                    removeCallbacks(longPressRunnable);
+                    removeCallbacks(repeatBackspaceRunnable);
+                    listener.onKey(pendingKey);
+                } else {
+                    removeCallbacks(longPressRunnable);
+                    removeCallbacks(repeatBackspaceRunnable);
+                }
+                // Switch tracking to the new pointer.
+                activePointerId = event.getPointerId(newIndex);
+                longPressTriggered = false;
+                setInitialPress(event.getX(newIndex), event.getY(newIndex));
+                if (pressedInside) performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP);
+                return true;
+            }
             case MotionEvent.ACTION_MOVE:
                 addVelocityMovement(event);
                 int pointerIndex = event.findPointerIndex(activePointerId);
@@ -375,7 +412,14 @@ final class UnicodeKeyboardView extends View {
         pressedInside = pressedSlot != NO_SLOT;
         longPressTriggered = false;
         if (pressedInside) {
-            postDelayed(longPressRunnable, ViewConfiguration.getLongPressTimeout());
+            // Only schedule long-press detection for keys that use it: backspace
+            // (repeat deletion) or keys with alternate long-press output.
+            // Plain text keys, space, enter, etc. skip the timer entirely.
+            KeyboardLayout.Key key = page.slots.get(pressedSlot).key;
+            if (key.action == KeyboardLayout.Action.BACKSPACE
+                    || !key.longPressOutput.isEmpty()) {
+                postDelayed(longPressRunnable, ViewConfiguration.getLongPressTimeout());
+            }
         }
         postInvalidateOnAnimation();
     }
