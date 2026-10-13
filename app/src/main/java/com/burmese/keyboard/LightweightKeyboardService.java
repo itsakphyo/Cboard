@@ -1,21 +1,11 @@
 package com.burmese.keyboard;
 
-import android.graphics.Paint;
 import android.inputmethodservice.InputMethodService;
-import android.os.Build;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
-
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 /** Android editor adapter. Keyboard navigation remains functional without an input connection. */
 public final class LightweightKeyboardService extends InputMethodService
@@ -26,7 +16,7 @@ public final class LightweightKeyboardService extends InputMethodService
 
     @Override public void onCreate() {
         super.onCreate();
-        controller = new KeyboardController(loadSupportedEmojis());
+        controller = new KeyboardController();
     }
 
     @Override public View onCreateInputView() {
@@ -176,22 +166,5 @@ public final class LightweightKeyboardService extends InputMethodService
     private void sendKey(InputConnection connection, int keyCode) {
         connection.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, keyCode));
         connection.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_UP, keyCode));
-    }
-
-    private List<String> loadSupportedEmojis() {
-        try (InputStreamReader reader = new InputStreamReader(
-                getAssets().open("emojilist.txt"), StandardCharsets.UTF_8)) {
-            List<String> parsed = EmojiCatalog.parse(reader);
-            if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) return parsed;
-
-            Paint paint = new Paint();
-            List<String> supported = new ArrayList<>();
-            for (String emoji : parsed) {
-                if (paint.hasGlyph(emoji)) supported.add(emoji);
-            }
-            return Collections.unmodifiableList(supported);
-        } catch (IOException exception) {
-            return Arrays.asList("😀", "😂", "😊", "😍", "😎", "👍", "❤️", "🎉");
-        }
     }
 }

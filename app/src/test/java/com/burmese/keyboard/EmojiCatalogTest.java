@@ -1,24 +1,28 @@
 package com.burmese.keyboard;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
 
 import org.junit.Test;
 
-import java.io.StringReader;
-import java.util.List;
-
 public final class EmojiCatalogTest {
-    @Test public void parsesOnlyNumberedBrowserEmojiRows() throws Exception {
-        String chart = "Full Emoji List, v18.0\n"
-                + "№\tCode\tBrowser\tSample\tCLDR Short Name\n"
-                + "1\tU+1F600\t😀\t😀\tgrinning face\n"
-                + "family\n"
-                + "2\tU+1F468 U+200D U+1F469\t👨‍👩\t👨‍👩\tfamily\n";
+    @Test public void providesCompleteEmojiCatalog() {
+        assertEquals(1927, EmojiCatalog.EMOJIS.size());
+        assertEquals("😀", EmojiCatalog.EMOJIS.get(0));
+        assertEquals("🏴󠁧󠁢󠁷󠁬󠁳󠁿", EmojiCatalog.EMOJIS.get(1926));
+        for (String emoji : EmojiCatalog.EMOJIS) {
+            assertNotNull(emoji);
+            assertFalse(emoji.isEmpty());
+        }
+    }
 
-        List<String> result = EmojiCatalog.parse(new StringReader(chart));
-
-        assertEquals(2, result.size());
-        assertEquals("😀", result.get(0));
-        assertEquals("👨‍👩", result.get(1));
+    @Test public void emojiLayoutDefaultsToCompleteCatalog() {
+        KeyboardLayout.Page page = KeyboardLayout.forLayer(KeyboardController.Layer.EMOJI);
+        assertEquals(1927 + 3, page.slots.size());
+        assertNotNull(page.verticalScroll);
+        assertEquals(1927, page.verticalScroll.slotCount);
+        assertEquals("😀", page.slots.get(0).key.output);
+        assertEquals("🏴󠁧󠁢󠁷󠁬󠁳󠁿", page.slots.get(1926).key.output);
     }
 }

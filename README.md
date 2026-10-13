@@ -72,7 +72,6 @@ Cboard/
 │   ├── build.gradle
 │   └── src/
 │       ├── main/
-│       │   ├── assets/emojilist.txt
 │       │   ├── java/com/burmese/keyboard/
 │       │   ├── res/
 │       │   └── AndroidManifest.xml

@@ -37,7 +37,7 @@ final class KeyboardController {
     private Alphabet alphabet = Alphabet.BURMESE;
 
     KeyboardController() {
-        this(Collections.<String>emptyList());
+        this(KeyboardLayout.EMOJIS);
     }
 
     KeyboardController(List<String> emojis) {
