@@ -1,0 +1,27 @@
+# Android Studio and IntelliJ IDEA
+.idea/
+*.iml
+
+# Local Android SDK path
+local.properties
+
+# Gradle state and generated build output
+.gradle/
+**/build/
+
+# Native and profiling output
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Local signing material
+*.jks
+*.keystore
+
+# Generated APKs are ignored except for the distributable checked into this repo.
+*.apk
+!/Cboard.apk
+
+# Operating-system files
+.DS_Store
+Thumbs.db

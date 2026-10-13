@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype
+        android:icon="@android:drawable/ic_menu_edit"
+        android:label="@string/subtype_name"
+        android:imeSubtypeLocale="my_MM"
+        android:languageTag="my-MM"
+        android:imeSubtypeMode="keyboard"
+        android:isAsciiCapable="false" />
+</input-method>

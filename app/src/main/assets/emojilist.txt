@@ -1,0 +1,2204 @@
+[Unicode]Emoji Charts
+ 
+Adopt a Character
+AAC Animation
+Full Emoji List, v18.0
+Index & Help | Images & Rights | Spec | Proposing Additions
+
+This chart provides a list of the Unicode emoji characters and sequences, with images from different vendors, CLDR name, date, source, and keywords. The ordering of the emoji and the annotations are based on Unicode CLDR data. Emoji sequences have more than one code point in the Code column. Recently-added emoji are marked by a ⊛ in the name and outlined images; their images may show as a group with “…” before and after.
+
+Emoji with skin-tones are not listed here: see Full Skin Tone List.
+
+For counts of emoji, see Emoji Counts.
+
+While these charts use a particular version of the Unicode Emoji data files, the images and format may be updated at any time. For any production usage, consult those data files. For information about the contents of each column, such as the CLDR Short Name, click on the column header. For further information, see Index & Help.
+
+Smileys & Emotion
+face-smiling
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1	U+1F600	😀	😀	😀	—	—	—	grinning face
+2	U+1F603	😃	😃	😃	😃	😃	😃	grinning face with big eyes
+3	U+1F604	😄	😄	😄	😄	—	—	grinning face with smiling eyes
+4	U+1F601	😁	😁	😁	😁	😁	😁	beaming face with smiling eyes
+5	U+1F606	😆	😆	😆	—	😆	—	grinning squinting face
+6	U+1F605	😅	😅	😅	—	😅	—	grinning face with sweat
+7	U+1F923	🤣	🤣	—	—	—	—	rolling on the floor laughing
+8	U+1F602	😂	😂	😂	😂	—	😂	face with tears of joy
+9	U+1F642	🙂	🙂	🙂	—	—	—	slightly smiling face
+10	U+1F643	🙃	🙃	—	—	—	—	upside-down face
+11	U+1FAE0	🫠	🫠	—	—	—	—	melting face
+12	U+1FAEB	🫫	🫫	—	—	—	—	⊛ cracking face
+13	U+1F609	😉	😉	😉	😉	😉	😉	winking face
+14	U+1F60A	😊	😊	😊	😊	—	😊	smiling face with smiling eyes
+15	U+1F607	😇	😇	—	—	—	—	smiling face with halo
+face-affection
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+16	U+1F970	🥰	🥰	—	—	—	—	smiling face with hearts
+17	U+1F60D	😍	😍	😍	😍	😍	😍	smiling face with heart-eyes
+18	U+1F929	🤩	🤩	—	—	—	—	star-struck
+19	U+1F618	😘	😘	😘	😘	—	😘	face blowing a kiss
+20	U+1F617	😗	😗	—	—	—	—	kissing face
+21	U+263A	☺	☺	☺	☺	—	☺	smiling face
+22	U+1F61A	😚	😚	😚	😚	—	😚	kissing face with closed eyes
+23	U+1F619	😙	😙	—	—	—	—	kissing face with smiling eyes
+24	U+1F972	🥲	🥲	—	—	—	—	smiling face with tear
+face-tongue
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+25	U+1F60B	😋	😋	😋	—	😋	—	face savoring food
+26	U+1F61B	😛	😛	—	—	—	—	face with tongue
+27	U+1F61C	😜	😜	😜	😜	😜	😜	winking face with tongue
+28	U+1F92A	🤪	🤪	—	—	—	—	zany face
+29	U+1F61D	😝	😝	😝	😝	—	—	squinting face with tongue
+30	U+1F911	🤑	🤑	—	—	—	—	money-mouth face
+face-hand
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+31	U+1F917	🤗	🤗	—	—	—	—	smiling face with open hands
+32	U+1F92D	🤭	🤭	—	—	—	—	face with hand over mouth
+33	U+1FAE2	🫢	🫢	—	—	—	—	face with open eyes and hand over mouth
+34	U+1FAE3	🫣	🫣	—	—	—	—	face with peeking eye
+35	U+1F92B	🤫	🤫	—	—	—	—	shushing face
+36	U+1F914	🤔	🤔	—	—	—	—	thinking face
+37	U+1FAE1	🫡	🫡	—	—	—	—	saluting face
+face-neutral-skeptical
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+38	U+1F910	🤐	🤐	—	—	—	—	zipper-mouth face
+39	U+1F928	🤨	🤨	—	—	—	—	face with raised eyebrow
+40	U+1F610	😐	😐	—	—	—	—	neutral face
+41	U+1F611	😑	😑	—	—	—	—	expressionless face
+42	U+1F636	😶	😶	—	—	—	—	face without mouth
+43	U+1FAE5	🫥	🫥	—	—	—	—	dotted line face
+44	U+1F636 U+200D U+1F32B U+FE0F	😶‍🌫️	😶‍🌫️	—	—	—	—	face in clouds
+45	U+1F60F	😏	😏	😏	😏	😏	😏	smirking face
+46	U+1F612	😒	😒	😒	😒	😒	😒	unamused face
+47	U+1F644	🙄	🙄	—	—	—	—	face with rolling eyes
+48	U+1F62C	😬	😬	—	—	—	—	grimacing face
+49	U+1F62E U+200D U+1F4A8	😮‍💨	😮‍💨	—	—	—	—	face exhaling
+50	U+1F925	🤥	🤥	—	—	—	—	lying face
+51	U+1FAE8	🫨	🫨	—	—	—	—	shaking face
+52	U+1F642 U+200D U+2194 U+FE0F	🙂‍↔️	🙂‍↔️	—	—	—	—	head shaking horizontally
+53	U+1F642 U+200D U+2195 U+FE0F	🙂‍↕️	🙂‍↕️	—	—	—	—	head shaking vertically
+face-sleepy
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+54	U+1F60C	😌	😌	😌	😌	😌	😌	relieved face
+55	U+1F614	😔	😔	😔	😔	😔	😔	pensive face
+56	U+1F62A	😪	😪	😪	😪	—	😪	sleepy face
+57	U+1F924	🤤	🤤	—	—	—	—	drooling face
+58	U+1F634	😴	😴	—	—	—	—	sleeping face
+59	U+1FAE9	🫩	🫩	—	—	—	—	face with bags under eyes
+face-unwell
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+60	U+1F637	😷	😷	😷	😷	—	😷	face with medical mask
+61	U+1F912	🤒	🤒	—	—	—	—	face with thermometer
+62	U+1F915	🤕	🤕	—	—	—	—	face with head-bandage
+63	U+1F922	🤢	🤢	—	—	—	—	nauseated face
+64	U+1F92E	🤮	🤮	—	—	—	—	face vomiting
+65	U+1F927	🤧	🤧	—	—	—	—	sneezing face
+66	U+1F975	🥵	🥵	—	—	—	—	hot face
+67	U+1F976	🥶	🥶	—	—	—	—	cold face
+68	U+1F974	🥴	🥴	—	—	—	—	woozy face
+69	U+1F635	😵	😵	😵	—	😵	😵	face with crossed-out eyes
+70	U+1F635 U+200D U+1F4AB	😵‍💫	😵‍💫	—	—	—	—	face with spiral eyes
+71	U+1F92F	🤯	🤯	—	—	—	—	exploding head
+face-hat
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+72	U+1F920	🤠	🤠	—	—	—	—	cowboy hat face
+73	U+1F973	🥳	🥳	—	—	—	—	partying face
+74	U+1F978	🥸	🥸	—	—	—	—	disguised face
+face-glasses
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+75	U+1F60E	😎	😎	😎	—	—	—	smiling face with sunglasses
+76	U+1F913	🤓	🤓	—	—	—	—	nerd face
+77	U+1F9D0	🧐	🧐	—	—	—	—	face with monocle
+face-concerned
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+78	U+1F615	😕	😕	😕	—	—	—	confused face
+79	U+1FAE4	🫤	🫤	—	—	—	—	face with diagonal mouth
+80	U+1F61F	😟	😟	😟	—	—	—	worried face
+81	U+1F641	🙁	🙁	—	—	—	—	slightly frowning face
+82	U+2639	☹	☹	—	—	—	—	frowning face
+83	U+1F62E	😮	😮	—	—	—	—	face with open mouth
+84	U+1F62F	😯	😯	—	—	—	—	hushed face
+85	U+1F632	😲	😲	😲	😲	—	😲	astonished face
+86	U+1F633	😳	😳	😳	😳	—	😳	flushed face
+87	U+1FAEA	🫪	🫪	—	—	—	—	distorted face
+88	U+1F97A	🥺	🥺	—	—	—	—	pleading face
+89	U+1F979	🥹	🥹	—	—	—	—	face holding back tears
+90	U+1F626	😦	😦	—	—	—	—	frowning face with open mouth
+91	U+1F627	😧	😧	—	—	—	—	anguished face
+92	U+1F628	😨	😨	😨	😨	—	😨	fearful face
+93	U+1F630	😰	😰	😰	😰	—	😰	anxious face with sweat
+94	U+1F625	😥	😥	😥	😥	—	—	sad but relieved face
+95	U+1F622	😢	😢	😢	😢	😢	😢	crying face
+96	U+1F62D	😭	😭	😭	😭	😭	😭	loudly crying face
+97	U+1F631	😱	😱	😱	😱	😱	😱	face screaming in fear
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+98	U+1F616	😖	😖	😖	😖	😖	😖	confounded face
+99	U+1F623	😣	😣	😣	😣	😣	😣	persevering face
+100	U+1F61E	😞	😞	😞	😞	😞	—	disappointed face
+101	U+1F613	😓	😓	😓	😓	😓	😓	downcast face with sweat
+102	U+1F629	😩	😩	😩	—	—	😩	weary face
+103	U+1F62B	😫	😫	😫	—	—	😫	tired face
+104	U+1F971	🥱	🥱	—	—	—	—	yawning face
+face-negative
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+105	U+1F624	😤	😤	😤	—	—	😤	face with steam from nose
+106	U+1F621	😡	😡	😡	😡	😡	😡	enraged face
+107	U+1F620	😠	😠	😠	😠	😠	😠	angry face
+108	U+1F92C	🤬	🤬	—	—	—	—	face with symbols on mouth
+109	U+1F608	😈	😈	—	—	—	—	smiling face with horns
+110	U+1F47F	👿	👿	👿	👿	—	👿	angry face with horns
+111	U+1F480	💀	💀	💀	💀	—	💀	skull
+112	U+2620	☠	☠	—	—	—	—	skull and crossbones
+face-costume
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+113	U+1F4A9	💩	💩	💩	💩	—	💩	pile of poo
+114	U+1F921	🤡	🤡	—	—	—	—	clown face
+115	U+1F479	👹	👹	👹	—	—	👹	ogre
+116	U+1F47A	👺	👺	👺	—	—	👺	goblin
+117	U+1F47B	👻	👻	👻	👻	—	👻	ghost
+118	U+1F47D	👽	👽	👽	👽	—	👽	alien
+119	U+1F47E	👾	👾	👾	👾	—	👾	alien monster
+120	U+1F916	🤖	🤖	—	—	—	—	robot
+cat-face
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+121	U+1F63A	😺	😺	😺	—	—	😺	grinning cat
+122	U+1F638	😸	😸	😸	—	—	😸	grinning cat with smiling eyes
+123	U+1F639	😹	😹	😹	—	—	😹	cat with tears of joy
+124	U+1F63B	😻	😻	😻	—	—	😻	smiling cat with heart-eyes
+125	U+1F63C	😼	😼	😼	—	—	😼	cat with wry smile
+126	U+1F63D	😽	😽	😽	—	—	😽	kissing cat
+127	U+1F640	🙀	🙀	🙀	—	—	🙀	weary cat
+128	U+1F63F	😿	😿	😿	—	—	😿	crying cat
+129	U+1F63E	😾	😾	😾	—	—	😾	pouting cat
+monkey-face
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+130	U+1F648	🙈	🙈	🙈	—	—	🙈	see-no-evil monkey
+131	U+1F649	🙉	🙉	🙉	—	—	🙉	hear-no-evil monkey
+132	U+1F64A	🙊	🙊	🙊	—	—	🙊	speak-no-evil monkey
+heart
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+133	U+1F48C	💌	💌	💌	—	💌	💌	love letter
+134	U+1F498	💘	💘	💘	💘	—	💘	heart with arrow
+135	U+1F49D	💝	💝	💝	💝	—	💝	heart with ribbon
+136	U+1F496	💖	💖	💖	—	—	💖	sparkling heart
+137	U+1F497	💗	💗	💗	💗	—	—	growing heart
+138	U+1F493	💓	💓	💓	💓	💓	💓	beating heart
+139	U+1F49E	💞	💞	💞	—	—	💞	revolving hearts
+140	U+1F495	💕	💕	💕	—	💕	💕	two hearts
+141	U+1F49F	💟	💟	💟	💟	—	—	heart decoration
+142	U+2763	❣	❣	—	—	—	—	heart exclamation
+143	U+1F494	💔	💔	💔	💔	💔	💔	broken heart
+144	U+2764 U+FE0F U+200D U+1F525	❤️‍🔥	❤️‍🔥	—	—	—	—	heart on fire
+145	U+2764 U+FE0F U+200D U+1FA79	❤️‍🩹	❤️‍🩹	—	—	—	—	mending heart
+146	U+2764	❤	❤	❤	❤	❤	❤	red heart
+147	U+1FA77	🩷	🩷	—	—	—	—	pink heart
+148	U+1F9E1	🧡	🧡	—	—	—	—	orange heart
+149	U+1F49B	💛	💛	💛	💛	—	💛	yellow heart
+150	U+1F49A	💚	💚	💚	💚	—	💚	green heart
+151	U+1F499	💙	💙	💙	💙	—	💙	blue heart
+152	U+1FA75	🩵	🩵	—	—	—	—	light blue heart
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+153	U+1F49C	💜	💜	💜	💜	—	💜	purple heart
+154	U+1F90E	🤎	🤎	—	—	—	—	brown heart
+155	U+1F5A4	🖤	🖤	—	—	—	—	black heart
+156	U+1FA76	🩶	🩶	—	—	—	—	grey heart
+157	U+1F90D	🤍	🤍	—	—	—	—	white heart
+emotion
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+158	U+1F48B	💋	💋	💋	💋	💋	💋	kiss mark
+159	U+1F4AF	💯	💯	💯	—	—	💯	hundred points
+160	U+1F4A2	💢	💢	💢	💢	💢	💢	anger symbol
+161	U+1FAEF	🫯	🫯	—	—	—	—	fight cloud
+162	U+1F4A5	💥	💥	💥	—	💥	💥	collision
+163	U+1F4AB	💫	💫	💫	—	—	💫	dizzy
+164	U+1F4A6	💦	💦	💦	💦	💦	💦	sweat droplets
+165	U+1F4A8	💨	💨	💨	💨	💨	💨	dashing away
+166	U+1F573	🕳	🕳	—	—	—	—	hole
+167	U+1F4AC	💬	💬	💬	—	—	💬	speech balloon
+168	U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F	👁️‍🗨️	👁️‍🗨️	—	—	—	—	eye in speech bubble
+169	U+1F5E8	🗨	🗨	—	—	—	—	left speech bubble
+170	U+1F5EF	🗯	🗯	—	—	—	—	right anger bubble
+171	U+1F4AD	💭	💭	—	—	—	—	thought balloon
+172	U+1F4A4	💤	💤	💤	💤	💤	💤	ZZZ
+People & Body
+hand-fingers-open
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+173	U+1F44B	👋	👋	👋	👋	—	👋	waving hand
+174	U+1F91A	🤚	🤚	—	—	—	—	raised back of hand
+175	U+1F590	🖐	🖐	—	—	—	—	hand with fingers splayed
+176	U+270B	✋	✋	✋	✋	✋	✋	raised hand
+177	U+1F596	🖖	🖖	—	—	—	—	vulcan salute
+178	U+1FAF1	🫱	🫱	—	—	—	—	rightwards hand
+179	U+1FAF2	🫲	🫲	—	—	—	—	leftwards hand
+180	U+1FAF3	🫳	🫳	—	—	—	—	palm down hand
+181	U+1FAF4	🫴	🫴	—	—	—	—	palm up hand
+182	U+1FAF7	🫷	🫷	—	—	—	—	leftwards pushing hand
+183	U+1FAF8	🫸	🫸	—	—	—	—	rightwards pushing hand
+hand-fingers-partial
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+184	U+1F44C	👌	👌	👌	👌	—	👌	OK hand
+185	U+1F90C	🤌	🤌	—	—	—	—	pinched fingers
+186	U+1F90F	🤏	🤏	—	—	—	—	pinching hand
+187	U+270C	✌	✌	✌	✌	✌	✌	victory hand
+188	U+1F91E	🤞	🤞	—	—	—	—	crossed fingers
+189	U+1FAF0	🫰	🫰	—	—	—	—	hand with index finger and thumb crossed
+190	U+1F91F	🤟	🤟	—	—	—	—	love-you gesture
+191	U+1F918	🤘	🤘	—	—	—	—	sign of the horns
+192	U+1F919	🤙	🤙	—	—	—	—	call me hand
+hand-single-finger
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+193	U+1F448	👈	👈	👈	👈	—	👈	backhand index pointing left
+194	U+1F449	👉	👉	👉	👉	—	👉	backhand index pointing right
+195	U+1F446	👆	👆	👆	👆	—	👆	backhand index pointing up
+196	U+1F595	🖕	🖕	—	—	—	—	middle finger
+197	U+1F447	👇	👇	👇	👇	—	👇	backhand index pointing down
+198	U+261D	☝	☝	☝	☝	—	☝	index pointing up
+199	U+1FAF5	🫵	🫵	—	—	—	—	index pointing at the viewer
+hand-fingers-closed
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+200	U+1F44D	👍	👍	👍	👍	👍	👍	thumbs up
+201	U+1F44E	👎	👎	👎	👎	—	👎	thumbs down
+202	U+1FAF9	🫹	🫹	—	—	—	—	⊛ leftwards thumb sign
+203	U+1FAFA	🫺	🫺	—	—	—	—	⊛ rightwards thumb sign
+204	U+270A	✊	✊	✊	✊	✊	✊	raised fist
+205	U+1F44A	👊	👊	👊	👊	👊	👊	oncoming fist
+206	U+1F91B	🤛	🤛	—	—	—	—	left-facing fist
+207	U+1F91C	🤜	🤜	—	—	—	—	right-facing fist
+hands
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+208	U+1F44F	👏	👏	👏	👏	—	👏	clapping hands
+209	U+1F64C	🙌	🙌	🙌	🙌	—	🙌	raising hands
+210	U+1FAF6	🫶	🫶	—	—	—	—	heart hands
+211	U+1F450	👐	👐	👐	👐	—	—	open hands
+212	U+1F932	🤲	🤲	—	—	—	—	palms up together
+213	U+1F91D	🤝	🤝	—	—	—	—	handshake
+214	U+1F64F	🙏	🙏	🙏	🙏	—	🙏	folded hands
+hand-prop
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+215	U+270D	✍	✍	—	—	—	—	writing hand
+216	U+1F485	💅	💅	💅	💅	—	💅	nail polish
+217	U+1F933	🤳	🤳	—	—	—	—	selfie
+body-parts
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+218	U+1F4AA	💪	💪	💪	💪	—	💪	flexed biceps
+219	U+1F9BE	🦾	🦾	—	—	—	—	mechanical arm
+220	U+1F9BF	🦿	🦿	—	—	—	—	mechanical leg
+221	U+1F9B5	🦵	🦵	—	—	—	—	leg
+222	U+1F9B6	🦶	🦶	—	—	—	—	foot
+223	U+1F442	👂	👂	👂	👂	👂	👂	ear
+224	U+1F9BB	🦻	🦻	—	—	—	—	ear with hearing aid
+225	U+1F443	👃	👃	👃	👃	—	👃	nose
+226	U+1F9E0	🧠	🧠	—	—	—	—	brain
+227	U+1FAC0	🫀	🫀	—	—	—	—	anatomical heart
+228	U+1FAC1	🫁	🫁	—	—	—	—	lungs
+229	U+1F9B7	🦷	🦷	—	—	—	—	tooth
+230	U+1F9B4	🦴	🦴	—	—	—	—	bone
+231	U+1F440	👀	👀	👀	👀	👀	👀	eyes
+232	U+1F441	👁	👁	—	—	—	—	eye
+233	U+1F445	👅	👅	👅	—	—	👅	tongue
+234	U+1F444	👄	👄	👄	👄	—	👄	mouth
+235	U+1FAE6	🫦	🫦	—	—	—	—	biting lip
+person
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+236	U+1F476	👶	👶	👶	👶	—	👶	baby
+237	U+1F9D2	🧒	🧒	—	—	—	—	child
+238	U+1F466	👦	👦	👦	👦	—	—	boy
+239	U+1F467	👧	👧	👧	👧	—	—	girl
+240	U+1F9D1	🧑	🧑	—	—	—	—	person
+241	U+1F471	👱	👱	👱	👱	—	👱	person: blond hair
+242	U+1F468	👨	👨	👨	👨	—	👨	man
+243	U+1F9D4	🧔	🧔	—	—	—	—	person: beard
+244	U+1F9D4 U+200D U+2642 U+FE0F	🧔‍♂️	🧔‍♂️	—	—	—	—	man: beard
+245	U+1F9D4 U+200D U+2640 U+FE0F	🧔‍♀️	🧔‍♀️	—	—	—	—	woman: beard
+246	U+1F468 U+200D U+1F9B0	👨‍🦰	👨‍🦰	—	—	—	—	man: red hair
+247	U+1F468 U+200D U+1F9B1	👨‍🦱	👨‍🦱	—	—	—	—	man: curly hair
+248	U+1F468 U+200D U+1F9B3	👨‍🦳	👨‍🦳	—	—	—	—	man: white hair
+249	U+1F468 U+200D U+1F9B2	👨‍🦲	👨‍🦲	—	—	—	—	man: bald
+250	U+1F469	👩	👩	👩	👩	—	👩	woman
+251	U+1F469 U+200D U+1F9B0	👩‍🦰	👩‍🦰	—	—	—	—	woman: red hair
+252	U+1F9D1 U+200D U+1F9B0	🧑‍🦰	🧑‍🦰	—	—	—	—	person: red hair
+253	U+1F469 U+200D U+1F9B1	👩‍🦱	👩‍🦱	—	—	—	—	woman: curly hair
+254	U+1F9D1 U+200D U+1F9B1	🧑‍🦱	🧑‍🦱	—	—	—	—	person: curly hair
+255	U+1F469 U+200D U+1F9B3	👩‍🦳	👩‍🦳	—	—	—	—	woman: white hair
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+256	U+1F9D1 U+200D U+1F9B3	🧑‍🦳	🧑‍🦳	—	—	—	—	person: white hair
+257	U+1F469 U+200D U+1F9B2	👩‍🦲	👩‍🦲	—	—	—	—	woman: bald
+258	U+1F9D1 U+200D U+1F9B2	🧑‍🦲	🧑‍🦲	—	—	—	—	person: bald
+259	U+1F471 U+200D U+2640 U+FE0F	👱‍♀️	👱‍♀️	—	—	—	—	woman: blond hair
+260	U+1F471 U+200D U+2642 U+FE0F	👱‍♂️	👱‍♂️	—	—	—	—	man: blond hair
+261	U+1F9D3	🧓	🧓	—	—	—	—	older person
+262	U+1F474	👴	👴	👴	👴	—	👴	old man
+263	U+1F475	👵	👵	👵	👵	—	👵	old woman
+person-gesture
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+264	U+1F64D	🙍	🙍	🙍	—	—	🙍	person frowning
+265	U+1F64D U+200D U+2642 U+FE0F	🙍‍♂️	🙍‍♂️	—	—	—	—	man frowning
+266	U+1F64D U+200D U+2640 U+FE0F	🙍‍♀️	🙍‍♀️	—	—	—	—	woman frowning
+267	U+1F64E	🙎	🙎	🙎	—	—	🙎	person pouting
+268	U+1F64E U+200D U+2642 U+FE0F	🙎‍♂️	🙎‍♂️	—	—	—	—	man pouting
+269	U+1F64E U+200D U+2640 U+FE0F	🙎‍♀️	🙎‍♀️	—	—	—	—	woman pouting
+270	U+1F645	🙅	🙅	🙅	🙅	—	🙅	person gesturing NO
+271	U+1F645 U+200D U+2642 U+FE0F	🙅‍♂️	🙅‍♂️	—	—	—	—	man gesturing NO
+272	U+1F645 U+200D U+2640 U+FE0F	🙅‍♀️	🙅‍♀️	—	—	—	—	woman gesturing NO
+273	U+1F646	🙆	🙆	🙆	🙆	—	🙆	person gesturing OK
+274	U+1F646 U+200D U+2642 U+FE0F	🙆‍♂️	🙆‍♂️	—	—	—	—	man gesturing OK
+275	U+1F646 U+200D U+2640 U+FE0F	🙆‍♀️	🙆‍♀️	—	—	—	—	woman gesturing OK
+276	U+1F481	💁	💁	💁	💁	—	—	person tipping hand
+277	U+1F481 U+200D U+2642 U+FE0F	💁‍♂️	💁‍♂️	—	—	—	—	man tipping hand
+278	U+1F481 U+200D U+2640 U+FE0F	💁‍♀️	💁‍♀️	—	—	—	—	woman tipping hand
+279	U+1F64B	🙋	🙋	🙋	—	—	🙋	person raising hand
+280	U+1F64B U+200D U+2642 U+FE0F	🙋‍♂️	🙋‍♂️	—	—	—	—	man raising hand
+281	U+1F64B U+200D U+2640 U+FE0F	🙋‍♀️	🙋‍♀️	—	—	—	—	woman raising hand
+282	U+1F9CF	🧏	🧏	—	—	—	—	deaf person
+283	U+1F9CF U+200D U+2642 U+FE0F	🧏‍♂️	🧏‍♂️	—	—	—	—	deaf man
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+284	U+1F9CF U+200D U+2640 U+FE0F	🧏‍♀️	🧏‍♀️	—	—	—	—	deaf woman
+285	U+1F647	🙇	🙇	🙇	🙇	—	🙇	person bowing
+286	U+1F647 U+200D U+2642 U+FE0F	🙇‍♂️	🙇‍♂️	—	—	—	—	man bowing
+287	U+1F647 U+200D U+2640 U+FE0F	🙇‍♀️	🙇‍♀️	—	—	—	—	woman bowing
+288	U+1F926	🤦	🤦	—	—	—	—	person facepalming
+289	U+1F926 U+200D U+2642 U+FE0F	🤦‍♂️	🤦‍♂️	—	—	—	—	man facepalming
+290	U+1F926 U+200D U+2640 U+FE0F	🤦‍♀️	🤦‍♀️	—	—	—	—	woman facepalming
+291	U+1F937	🤷	🤷	—	—	—	—	person shrugging
+292	U+1F937 U+200D U+2642 U+FE0F	🤷‍♂️	🤷‍♂️	—	—	—	—	man shrugging
+293	U+1F937 U+200D U+2640 U+FE0F	🤷‍♀️	🤷‍♀️	—	—	—	—	woman shrugging
+person-role
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+294	U+1F9D1 U+200D U+2695 U+FE0F	🧑‍⚕️	🧑‍⚕️	—	—	—	—	health worker
+295	U+1F468 U+200D U+2695 U+FE0F	👨‍⚕️	👨‍⚕️	—	—	—	—	man health worker
+296	U+1F469 U+200D U+2695 U+FE0F	👩‍⚕️	👩‍⚕️	—	—	—	—	woman health worker
+297	U+1F9D1 U+200D U+1F393	🧑‍🎓	🧑‍🎓	—	—	—	—	student
+298	U+1F468 U+200D U+1F393	👨‍🎓	👨‍🎓	—	—	—	—	man student
+299	U+1F469 U+200D U+1F393	👩‍🎓	👩‍🎓	—	—	—	—	woman student
+300	U+1F9D1 U+200D U+1F3EB	🧑‍🏫	🧑‍🏫	—	—	—	—	teacher
+301	U+1F468 U+200D U+1F3EB	👨‍🏫	👨‍🏫	—	—	—	—	man teacher
+302	U+1F469 U+200D U+1F3EB	👩‍🏫	👩‍🏫	—	—	—	—	woman teacher
+303	U+1F9D1 U+200D U+2696 U+FE0F	🧑‍⚖️	🧑‍⚖️	—	—	—	—	judge
+304	U+1F468 U+200D U+2696 U+FE0F	👨‍⚖️	👨‍⚖️	—	—	—	—	man judge
+305	U+1F469 U+200D U+2696 U+FE0F	👩‍⚖️	👩‍⚖️	—	—	—	—	woman judge
+306	U+1F9D1 U+200D U+1F33E	🧑‍🌾	🧑‍🌾	—	—	—	—	farmer
+307	U+1F468 U+200D U+1F33E	👨‍🌾	👨‍🌾	—	—	—	—	man farmer
+308	U+1F469 U+200D U+1F33E	👩‍🌾	👩‍🌾	—	—	—	—	woman farmer
+309	U+1F9D1 U+200D U+1F373	🧑‍🍳	🧑‍🍳	—	—	—	—	cook
+310	U+1F468 U+200D U+1F373	👨‍🍳	👨‍🍳	—	—	—	—	man cook
+311	U+1F469 U+200D U+1F373	👩‍🍳	👩‍🍳	—	—	—	—	woman cook
+312	U+1F9D1 U+200D U+1F527	🧑‍🔧	🧑‍🔧	—	—	—	—	mechanic
+313	U+1F468 U+200D U+1F527	👨‍🔧	👨‍🔧	—	—	—	—	man mechanic
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+314	U+1F469 U+200D U+1F527	👩‍🔧	👩‍🔧	—	—	—	—	woman mechanic
+315	U+1F9D1 U+200D U+1F3ED	🧑‍🏭	🧑‍🏭	—	—	—	—	factory worker
+316	U+1F468 U+200D U+1F3ED	👨‍🏭	👨‍🏭	—	—	—	—	man factory worker
+317	U+1F469 U+200D U+1F3ED	👩‍🏭	👩‍🏭	—	—	—	—	woman factory worker
+318	U+1F9D1 U+200D U+1F4BC	🧑‍💼	🧑‍💼	—	—	—	—	office worker
+319	U+1F468 U+200D U+1F4BC	👨‍💼	👨‍💼	—	—	—	—	man office worker
+320	U+1F469 U+200D U+1F4BC	👩‍💼	👩‍💼	—	—	—	—	woman office worker
+321	U+1F9D1 U+200D U+1F52C	🧑‍🔬	🧑‍🔬	—	—	—	—	scientist
+322	U+1F468 U+200D U+1F52C	👨‍🔬	👨‍🔬	—	—	—	—	man scientist
+323	U+1F469 U+200D U+1F52C	👩‍🔬	👩‍🔬	—	—	—	—	woman scientist
+324	U+1F9D1 U+200D U+1F4BB	🧑‍💻	🧑‍💻	—	—	—	—	technologist
+325	U+1F468 U+200D U+1F4BB	👨‍💻	👨‍💻	—	—	—	—	man technologist
+326	U+1F469 U+200D U+1F4BB	👩‍💻	👩‍💻	—	—	—	—	woman technologist
+327	U+1F9D1 U+200D U+1F3A4	🧑‍🎤	🧑‍🎤	—	—	—	—	singer
+328	U+1F468 U+200D U+1F3A4	👨‍🎤	👨‍🎤	—	—	—	—	man singer
+329	U+1F469 U+200D U+1F3A4	👩‍🎤	👩‍🎤	—	—	—	—	woman singer
+330	U+1F9D1 U+200D U+1F3A8	🧑‍🎨	🧑‍🎨	—	—	—	—	artist
+331	U+1F468 U+200D U+1F3A8	👨‍🎨	👨‍🎨	—	—	—	—	man artist
+332	U+1F469 U+200D U+1F3A8	👩‍🎨	👩‍🎨	—	—	—	—	woman artist
+333	U+1F9D1 U+200D U+2708 U+FE0F	🧑‍✈️	🧑‍✈️	—	—	—	—	pilot
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+334	U+1F468 U+200D U+2708 U+FE0F	👨‍✈️	👨‍✈️	—	—	—	—	man pilot
+335	U+1F469 U+200D U+2708 U+FE0F	👩‍✈️	👩‍✈️	—	—	—	—	woman pilot
+336	U+1F9D1 U+200D U+1F680	🧑‍🚀	🧑‍🚀	—	—	—	—	astronaut
+337	U+1F468 U+200D U+1F680	👨‍🚀	👨‍🚀	—	—	—	—	man astronaut
+338	U+1F469 U+200D U+1F680	👩‍🚀	👩‍🚀	—	—	—	—	woman astronaut
+339	U+1F9D1 U+200D U+1F692	🧑‍🚒	🧑‍🚒	—	—	—	—	firefighter
+340	U+1F468 U+200D U+1F692	👨‍🚒	👨‍🚒	—	—	—	—	man firefighter
+341	U+1F469 U+200D U+1F692	👩‍🚒	👩‍🚒	—	—	—	—	woman firefighter
+342	U+1F46E	👮	👮	👮	👮	—	👮	police officer
+343	U+1F46E U+200D U+2642 U+FE0F	👮‍♂️	👮‍♂️	—	—	—	—	man police officer
+344	U+1F46E U+200D U+2640 U+FE0F	👮‍♀️	👮‍♀️	—	—	—	—	woman police officer
+345	U+1F575	🕵	🕵	—	—	—	—	detective
+346	U+1F575 U+FE0F U+200D U+2642 U+FE0F	🕵️‍♂️	🕵️‍♂️	—	—	—	—	man detective
+347	U+1F575 U+FE0F U+200D U+2640 U+FE0F	🕵️‍♀️	🕵️‍♀️	—	—	—	—	woman detective
+348	U+1F482	💂	💂	💂	💂	—	—	guard
+349	U+1F482 U+200D U+2642 U+FE0F	💂‍♂️	💂‍♂️	—	—	—	—	man guard
+350	U+1F482 U+200D U+2640 U+FE0F	💂‍♀️	💂‍♀️	—	—	—	—	woman guard
+351	U+1F977	🥷	🥷	—	—	—	—	ninja
+352	U+1F477	👷	👷	👷	👷	—	👷	construction worker
+353	U+1F477 U+200D U+2642 U+FE0F	👷‍♂️	👷‍♂️	—	—	—	—	man construction worker
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+354	U+1F477 U+200D U+2640 U+FE0F	👷‍♀️	👷‍♀️	—	—	—	—	woman construction worker
+355	U+1FAC5	🫅	🫅	—	—	—	—	person with crown
+356	U+1F934	🤴	🤴	—	—	—	—	prince
+357	U+1F478	👸	👸	👸	👸	—	👸	princess
+358	U+1F473	👳	👳	👳	👳	—	👳	person wearing turban
+359	U+1F473 U+200D U+2642 U+FE0F	👳‍♂️	👳‍♂️	—	—	—	—	man wearing turban
+360	U+1F473 U+200D U+2640 U+FE0F	👳‍♀️	👳‍♀️	—	—	—	—	woman wearing turban
+361	U+1F472	👲	👲	👲	👲	—	👲	person with skullcap
+362	U+1F9D5	🧕	🧕	—	—	—	—	woman with headscarf
+363	U+1F935	🤵	🤵	—	—	—	—	person in tuxedo
+364	U+1F935 U+200D U+2642 U+FE0F	🤵‍♂️	🤵‍♂️	—	—	—	—	man in tuxedo
+365	U+1F935 U+200D U+2640 U+FE0F	🤵‍♀️	🤵‍♀️	—	—	—	—	woman in tuxedo
+366	U+1F470	👰	👰	👰	—	—	👰	person with veil
+367	U+1F470 U+200D U+2642 U+FE0F	👰‍♂️	👰‍♂️	—	—	—	—	man with veil
+368	U+1F470 U+200D U+2640 U+FE0F	👰‍♀️	👰‍♀️	—	—	—	—	woman with veil
+369	U+1F930	🤰	🤰	—	—	—	—	pregnant woman
+370	U+1FAC3	🫃	🫃	—	—	—	—	pregnant man
+371	U+1FAC4	🫄	🫄	—	—	—	—	pregnant person
+372	U+1F931	🤱	🤱	—	—	—	—	breast-feeding
+373	U+1F469 U+200D U+1F37C	👩‍🍼	👩‍🍼	—	—	—	—	woman feeding baby
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+374	U+1F468 U+200D U+1F37C	👨‍🍼	👨‍🍼	—	—	—	—	man feeding baby
+375	U+1F9D1 U+200D U+1F37C	🧑‍🍼	🧑‍🍼	—	—	—	—	person feeding baby
+person-fantasy
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+376	U+1F47C	👼	👼	👼	👼	—	👼	baby angel
+377	U+1F385	🎅	🎅	🎅	🎅	—	🎅	Santa Claus
+378	U+1F936	🤶	🤶	—	—	—	—	Mrs. Claus
+379	U+1F9D1 U+200D U+1F384	🧑‍🎄	🧑‍🎄	—	—	—	—	Mx Claus
+380	U+1F9B8	🦸	🦸	—	—	—	—	superhero
+381	U+1F9B8 U+200D U+2642 U+FE0F	🦸‍♂️	🦸‍♂️	—	—	—	—	man superhero
+382	U+1F9B8 U+200D U+2640 U+FE0F	🦸‍♀️	🦸‍♀️	—	—	—	—	woman superhero
+383	U+1F9B9	🦹	🦹	—	—	—	—	supervillain
+384	U+1F9B9 U+200D U+2642 U+FE0F	🦹‍♂️	🦹‍♂️	—	—	—	—	man supervillain
+385	U+1F9B9 U+200D U+2640 U+FE0F	🦹‍♀️	🦹‍♀️	—	—	—	—	woman supervillain
+386	U+1F9D9	🧙	🧙	—	—	—	—	mage
+387	U+1F9D9 U+200D U+2642 U+FE0F	🧙‍♂️	🧙‍♂️	—	—	—	—	man mage
+388	U+1F9D9 U+200D U+2640 U+FE0F	🧙‍♀️	🧙‍♀️	—	—	—	—	woman mage
+389	U+1F9DA	🧚	🧚	—	—	—	—	fairy
+390	U+1F9DA U+200D U+2642 U+FE0F	🧚‍♂️	🧚‍♂️	—	—	—	—	man fairy
+391	U+1F9DA U+200D U+2640 U+FE0F	🧚‍♀️	🧚‍♀️	—	—	—	—	woman fairy
+392	U+1F9DB	🧛	🧛	—	—	—	—	vampire
+393	U+1F9DB U+200D U+2642 U+FE0F	🧛‍♂️	🧛‍♂️	—	—	—	—	man vampire
+394	U+1F9DB U+200D U+2640 U+FE0F	🧛‍♀️	🧛‍♀️	—	—	—	—	woman vampire
+395	U+1F9DC	🧜	🧜	—	—	—	—	merperson
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+396	U+1F9DC U+200D U+2642 U+FE0F	🧜‍♂️	🧜‍♂️	—	—	—	—	merman
+397	U+1F9DC U+200D U+2640 U+FE0F	🧜‍♀️	🧜‍♀️	—	—	—	—	mermaid
+398	U+1F9DD	🧝	🧝	—	—	—	—	elf
+399	U+1F9DD U+200D U+2642 U+FE0F	🧝‍♂️	🧝‍♂️	—	—	—	—	man elf
+400	U+1F9DD U+200D U+2640 U+FE0F	🧝‍♀️	🧝‍♀️	—	—	—	—	woman elf
+401	U+1F9DE	🧞	🧞	—	—	—	—	genie
+402	U+1F9DE U+200D U+2642 U+FE0F	🧞‍♂️	🧞‍♂️	—	—	—	—	man genie
+403	U+1F9DE U+200D U+2640 U+FE0F	🧞‍♀️	🧞‍♀️	—	—	—	—	woman genie
+404	U+1F9DF	🧟	🧟	—	—	—	—	zombie
+405	U+1F9DF U+200D U+2642 U+FE0F	🧟‍♂️	🧟‍♂️	—	—	—	—	man zombie
+406	U+1F9DF U+200D U+2640 U+FE0F	🧟‍♀️	🧟‍♀️	—	—	—	—	woman zombie
+407	U+1F9CC	🧌	🧌	—	—	—	—	troll
+408	U+1FAC8	🫈	🫈	—	—	—	—	hairy creature
+person-activity
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+409	U+1F486	💆	💆	💆	💆	—	💆	person getting massage
+410	U+1F486 U+200D U+2642 U+FE0F	💆‍♂️	💆‍♂️	—	—	—	—	man getting massage
+411	U+1F486 U+200D U+2640 U+FE0F	💆‍♀️	💆‍♀️	—	—	—	—	woman getting massage
+412	U+1F487	💇	💇	💇	💇	—	💇	person getting haircut
+413	U+1F487 U+200D U+2642 U+FE0F	💇‍♂️	💇‍♂️	—	—	—	—	man getting haircut
+414	U+1F487 U+200D U+2640 U+FE0F	💇‍♀️	💇‍♀️	—	—	—	—	woman getting haircut
+415	U+1F6B6	🚶	🚶	🚶	🚶	—	🚶	person walking
+416	U+1F6B6 U+200D U+2642 U+FE0F	🚶‍♂️	🚶‍♂️	—	—	—	—	man walking
+417	U+1F6B6 U+200D U+2640 U+FE0F	🚶‍♀️	🚶‍♀️	—	—	—	—	woman walking
+418	U+1F6B6 U+200D U+27A1 U+FE0F	🚶‍➡️	… 🚶‍➡️ …	person walking: facing right
+419	U+1F6B6 U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🚶‍♀️‍➡️	… 🚶‍♀️‍➡️ …	woman walking: facing right
+420	U+1F6B6 U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🚶‍♂️‍➡️	… 🚶‍♂️‍➡️ …	man walking: facing right
+421	U+1F9CD	🧍	🧍	—	—	—	—	person standing
+422	U+1F9CD U+200D U+2642 U+FE0F	🧍‍♂️	🧍‍♂️	—	—	—	—	man standing
+423	U+1F9CD U+200D U+2640 U+FE0F	🧍‍♀️	🧍‍♀️	—	—	—	—	woman standing
+424	U+1F9CE	🧎	🧎	—	—	—	—	person kneeling
+425	U+1F9CE U+200D U+2642 U+FE0F	🧎‍♂️	🧎‍♂️	—	—	—	—	man kneeling
+426	U+1F9CE U+200D U+2640 U+FE0F	🧎‍♀️	🧎‍♀️	—	—	—	—	woman kneeling
+427	U+1F9CE U+200D U+27A1 U+FE0F	🧎‍➡️	… 🧎‍➡️ …	person kneeling: facing right
+428	U+1F9CE U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🧎‍♀️‍➡️	… 🧎‍♀️‍➡️ …	woman kneeling: facing right
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+429	U+1F9CE U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🧎‍♂️‍➡️	… 🧎‍♂️‍➡️ …	man kneeling: facing right
+430	U+1F9D1 U+200D U+1F9AF	🧑‍🦯	🧑‍🦯	—	—	—	—	person with white cane
+431	U+1F9D1 U+200D U+1F9AF U+200D U+27A1 U+FE0F	🧑‍🦯‍➡️	… 🧑‍🦯‍➡️ …	person with white cane: facing right
+432	U+1F468 U+200D U+1F9AF	👨‍🦯	👨‍🦯	—	—	—	—	man with white cane
+433	U+1F468 U+200D U+1F9AF U+200D U+27A1 U+FE0F	👨‍🦯‍➡️	… 👨‍🦯‍➡️ …	man with white cane: facing right
+434	U+1F469 U+200D U+1F9AF	👩‍🦯	👩‍🦯	—	—	—	—	woman with white cane
+435	U+1F469 U+200D U+1F9AF U+200D U+27A1 U+FE0F	👩‍🦯‍➡️	… 👩‍🦯‍➡️ …	woman with white cane: facing right
+436	U+1F9D1 U+200D U+1F9BC	🧑‍🦼	🧑‍🦼	—	—	—	—	person in motorized wheelchair
+437	U+1F9D1 U+200D U+1F9BC U+200D U+27A1 U+FE0F	🧑‍🦼‍➡️	… 🧑‍🦼‍➡️ …	person in motorized wheelchair: facing right
+438	U+1F468 U+200D U+1F9BC	👨‍🦼	👨‍🦼	—	—	—	—	man in motorized wheelchair
+439	U+1F468 U+200D U+1F9BC U+200D U+27A1 U+FE0F	👨‍🦼‍➡️	… 👨‍🦼‍➡️ …	man in motorized wheelchair: facing right
+440	U+1F469 U+200D U+1F9BC	👩‍🦼	👩‍🦼	—	—	—	—	woman in motorized wheelchair
+441	U+1F469 U+200D U+1F9BC U+200D U+27A1 U+FE0F	👩‍🦼‍➡️	… 👩‍🦼‍➡️ …	woman in motorized wheelchair: facing right
+442	U+1F9D1 U+200D U+1F9BD	🧑‍🦽	🧑‍🦽	—	—	—	—	person in manual wheelchair
+443	U+1F9D1 U+200D U+1F9BD U+200D U+27A1 U+FE0F	🧑‍🦽‍➡️	… 🧑‍🦽‍➡️ …	person in manual wheelchair: facing right
+444	U+1F468 U+200D U+1F9BD	👨‍🦽	👨‍🦽	—	—	—	—	man in manual wheelchair
+445	U+1F468 U+200D U+1F9BD U+200D U+27A1 U+FE0F	👨‍🦽‍➡️	… 👨‍🦽‍➡️ …	man in manual wheelchair: facing right
+446	U+1F469 U+200D U+1F9BD	👩‍🦽	👩‍🦽	—	—	—	—	woman in manual wheelchair
+447	U+1F469 U+200D U+1F9BD U+200D U+27A1 U+FE0F	👩‍🦽‍➡️	… 👩‍🦽‍➡️ …	woman in manual wheelchair: facing right
+448	U+1F3C3	🏃	🏃	🏃	🏃	🏃	🏃	person running
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+449	U+1F3C3 U+200D U+2642 U+FE0F	🏃‍♂️	🏃‍♂️	—	—	—	—	man running
+450	U+1F3C3 U+200D U+2640 U+FE0F	🏃‍♀️	🏃‍♀️	—	—	—	—	woman running
+451	U+1F3C3 U+200D U+27A1 U+FE0F	🏃‍➡️	… 🏃‍➡️ …	person running: facing right
+452	U+1F3C3 U+200D U+2640 U+FE0F U+200D U+27A1 U+FE0F	🏃‍♀️‍➡️	… 🏃‍♀️‍➡️ …	woman running: facing right
+453	U+1F3C3 U+200D U+2642 U+FE0F U+200D U+27A1 U+FE0F	🏃‍♂️‍➡️	… 🏃‍♂️‍➡️ …	man running: facing right
+454	U+1F9D1 U+200D U+1FA70	🧑‍🩰	🧑‍🩰	—	—	—	—	ballet dancer
+455	U+1F483	💃	💃	💃	💃	—	💃	woman dancing
+456	U+1F57A	🕺	🕺	—	—	—	—	man dancing
+457	U+1F574	🕴	🕴	—	—	—	—	person in suit levitating
+458	U+1F46F	👯	👯	👯	👯	—	👯	people with bunny ears
+459	U+1F46F U+200D U+2642 U+FE0F	👯‍♂️	👯‍♂️	—	—	—	—	men with bunny ears
+460	U+1F46F U+200D U+2640 U+FE0F	👯‍♀️	👯‍♀️	—	—	—	—	women with bunny ears
+461	U+1F9D6	🧖	🧖	—	—	—	—	person in steamy room
+462	U+1F9D6 U+200D U+2642 U+FE0F	🧖‍♂️	🧖‍♂️	—	—	—	—	man in steamy room
+463	U+1F9D6 U+200D U+2640 U+FE0F	🧖‍♀️	🧖‍♀️	—	—	—	—	woman in steamy room
+464	U+1F9D7	🧗	🧗	—	—	—	—	person climbing
+465	U+1F9D7 U+200D U+2642 U+FE0F	🧗‍♂️	🧗‍♂️	—	—	—	—	man climbing
+466	U+1F9D7 U+200D U+2640 U+FE0F	🧗‍♀️	🧗‍♀️	—	—	—	—	woman climbing
+person-sport
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+467	U+1F93A	🤺	🤺	—	—	—	—	person fencing
+468	U+1F3C7	🏇	🏇	—	—	—	—	horse racing
+469	U+26F7	⛷	⛷	—	—	—	—	skier
+470	U+1F3C2	🏂	🏂	🏂	—	🏂	🏂	snowboarder
+471	U+1F3CC	🏌	🏌	—	—	—	—	person golfing
+472	U+1F3CC U+FE0F U+200D U+2642 U+FE0F	🏌️‍♂️	🏌️‍♂️	—	—	—	—	man golfing
+473	U+1F3CC U+FE0F U+200D U+2640 U+FE0F	🏌️‍♀️	🏌️‍♀️	—	—	—	—	woman golfing
+474	U+1F3C4	🏄	🏄	🏄	🏄	—	🏄	person surfing
+475	U+1F3C4 U+200D U+2642 U+FE0F	🏄‍♂️	🏄‍♂️	—	—	—	—	man surfing
+476	U+1F3C4 U+200D U+2640 U+FE0F	🏄‍♀️	🏄‍♀️	—	—	—	—	woman surfing
+477	U+1F6A3	🚣	🚣	—	—	—	—	person rowing boat
+478	U+1F6A3 U+200D U+2642 U+FE0F	🚣‍♂️	🚣‍♂️	—	—	—	—	man rowing boat
+479	U+1F6A3 U+200D U+2640 U+FE0F	🚣‍♀️	🚣‍♀️	—	—	—	—	woman rowing boat
+480	U+1F3CA	🏊	🏊	🏊	🏊	—	🏊	person swimming
+481	U+1F3CA U+200D U+2642 U+FE0F	🏊‍♂️	🏊‍♂️	—	—	—	—	man swimming
+482	U+1F3CA U+200D U+2640 U+FE0F	🏊‍♀️	🏊‍♀️	—	—	—	—	woman swimming
+483	U+26F9	⛹	⛹	—	—	—	—	person bouncing ball
+484	U+26F9 U+FE0F U+200D U+2642 U+FE0F	⛹️‍♂️	⛹️‍♂️	—	—	—	—	man bouncing ball
+485	U+26F9 U+FE0F U+200D U+2640 U+FE0F	⛹️‍♀️	⛹️‍♀️	—	—	—	—	woman bouncing ball
+486	U+1F3CB	🏋	🏋	—	—	—	—	person lifting weights
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+487	U+1F3CB U+FE0F U+200D U+2642 U+FE0F	🏋️‍♂️	🏋️‍♂️	—	—	—	—	man lifting weights
+488	U+1F3CB U+FE0F U+200D U+2640 U+FE0F	🏋️‍♀️	🏋️‍♀️	—	—	—	—	woman lifting weights
+489	U+1F6B4	🚴	🚴	—	—	—	—	person biking
+490	U+1F6B4 U+200D U+2642 U+FE0F	🚴‍♂️	🚴‍♂️	—	—	—	—	man biking
+491	U+1F6B4 U+200D U+2640 U+FE0F	🚴‍♀️	🚴‍♀️	—	—	—	—	woman biking
+492	U+1F6B5	🚵	🚵	—	—	—	—	person mountain biking
+493	U+1F6B5 U+200D U+2642 U+FE0F	🚵‍♂️	🚵‍♂️	—	—	—	—	man mountain biking
+494	U+1F6B5 U+200D U+2640 U+FE0F	🚵‍♀️	🚵‍♀️	—	—	—	—	woman mountain biking
+495	U+1F938	🤸	🤸	—	—	—	—	person cartwheeling
+496	U+1F938 U+200D U+2642 U+FE0F	🤸‍♂️	🤸‍♂️	—	—	—	—	man cartwheeling
+497	U+1F938 U+200D U+2640 U+FE0F	🤸‍♀️	🤸‍♀️	—	—	—	—	woman cartwheeling
+498	U+1F93C	🤼	🤼	—	—	—	—	people wrestling
+499	U+1F93C U+200D U+2642 U+FE0F	🤼‍♂️	🤼‍♂️	—	—	—	—	men wrestling
+500	U+1F93C U+200D U+2640 U+FE0F	🤼‍♀️	🤼‍♀️	—	—	—	—	women wrestling
+501	U+1F93D	🤽	🤽	—	—	—	—	person playing water polo
+502	U+1F93D U+200D U+2642 U+FE0F	🤽‍♂️	🤽‍♂️	—	—	—	—	man playing water polo
+503	U+1F93D U+200D U+2640 U+FE0F	🤽‍♀️	🤽‍♀️	—	—	—	—	woman playing water polo
+504	U+1F93E	🤾	🤾	—	—	—	—	person playing handball
+505	U+1F93E U+200D U+2642 U+FE0F	🤾‍♂️	🤾‍♂️	—	—	—	—	man playing handball
+506	U+1F93E U+200D U+2640 U+FE0F	🤾‍♀️	🤾‍♀️	—	—	—	—	woman playing handball
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+507	U+1F939	🤹	🤹	—	—	—	—	person juggling
+508	U+1F939 U+200D U+2642 U+FE0F	🤹‍♂️	🤹‍♂️	—	—	—	—	man juggling
+509	U+1F939 U+200D U+2640 U+FE0F	🤹‍♀️	🤹‍♀️	—	—	—	—	woman juggling
+person-resting
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+510	U+1F9D8	🧘	🧘	—	—	—	—	person in lotus position
+511	U+1F9D8 U+200D U+2642 U+FE0F	🧘‍♂️	🧘‍♂️	—	—	—	—	man in lotus position
+512	U+1F9D8 U+200D U+2640 U+FE0F	🧘‍♀️	🧘‍♀️	—	—	—	—	woman in lotus position
+513	U+1F6C0	🛀	🛀	🛀	🛀	—	🛀	person taking bath
+514	U+1F6CC	🛌	🛌	—	—	—	—	person in bed
+family
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+515	U+1F9D1 U+200D U+1F91D U+200D U+1F9D1	🧑‍🤝‍🧑	🧑‍🤝‍🧑	—	—	—	—	people holding hands
+516	U+1F46D	👭	👭	—	—	—	—	women holding hands
+517	U+1F46B	👫	👫	👫	👫	—	—	woman and man holding hands
+518	U+1F46C	👬	👬	—	—	—	—	men holding hands
+519	U+1F48F	💏	💏	💏	💏	—	💏	kiss
+520	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👩‍❤️‍💋‍👨	👩‍❤️‍💋‍👨	—	—	—	—	kiss: woman, man
+521	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👨‍❤️‍💋‍👨	👨‍❤️‍💋‍👨	—	—	—	—	kiss: man, man
+522	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469	👩‍❤️‍💋‍👩	👩‍❤️‍💋‍👩	—	—	—	—	kiss: woman, woman
+523	U+1F491	💑	💑	💑	💑	—	💑	couple with heart
+524	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468	👩‍❤️‍👨	👩‍❤️‍👨	—	—	—	—	couple with heart: woman, man
+525	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468	👨‍❤️‍👨	👨‍❤️‍👨	—	—	—	—	couple with heart: man, man
+526	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469	👩‍❤️‍👩	👩‍❤️‍👩	—	—	—	—	couple with heart: woman, woman
+527	U+1F468 U+200D U+1F469 U+200D U+1F466	👨‍👩‍👦	👨‍👩‍👦	—	—	—	—	family: man, woman, boy
+528	U+1F468 U+200D U+1F469 U+200D U+1F467	👨‍👩‍👧	👨‍👩‍👧	—	—	—	—	family: man, woman, girl
+529	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👨‍👩‍👧‍👦	👨‍👩‍👧‍👦	—	—	—	—	family: man, woman, girl, boy
+530	U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👨‍👩‍👦‍👦	👨‍👩‍👦‍👦	—	—	—	—	family: man, woman, boy, boy
+531	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👨‍👩‍👧‍👧	👨‍👩‍👧‍👧	—	—	—	—	family: man, woman, girl, girl
+532	U+1F468 U+200D U+1F468 U+200D U+1F466	👨‍👨‍👦	👨‍👨‍👦	—	—	—	—	family: man, man, boy
+533	U+1F468 U+200D U+1F468 U+200D U+1F467	👨‍👨‍👧	👨‍👨‍👧	—	—	—	—	family: man, man, girl
+534	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466	👨‍👨‍👧‍👦	👨‍👨‍👧‍👦	—	—	—	—	family: man, man, girl, boy
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+535	U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466	👨‍👨‍👦‍👦	👨‍👨‍👦‍👦	—	—	—	—	family: man, man, boy, boy
+536	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467	👨‍👨‍👧‍👧	👨‍👨‍👧‍👧	—	—	—	—	family: man, man, girl, girl
+537	U+1F469 U+200D U+1F469 U+200D U+1F466	👩‍👩‍👦	👩‍👩‍👦	—	—	—	—	family: woman, woman, boy
+538	U+1F469 U+200D U+1F469 U+200D U+1F467	👩‍👩‍👧	👩‍👩‍👧	—	—	—	—	family: woman, woman, girl
+539	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👩‍👩‍👧‍👦	👩‍👩‍👧‍👦	—	—	—	—	family: woman, woman, girl, boy
+540	U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👩‍👩‍👦‍👦	👩‍👩‍👦‍👦	—	—	—	—	family: woman, woman, boy, boy
+541	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👩‍👩‍👧‍👧	👩‍👩‍👧‍👧	—	—	—	—	family: woman, woman, girl, girl
+542	U+1F468 U+200D U+1F466	👨‍👦	👨‍👦	—	—	—	—	family: man, boy
+543	U+1F468 U+200D U+1F466 U+200D U+1F466	👨‍👦‍👦	👨‍👦‍👦	—	—	—	—	family: man, boy, boy
+544	U+1F468 U+200D U+1F467	👨‍👧	👨‍👧	—	—	—	—	family: man, girl
+545	U+1F468 U+200D U+1F467 U+200D U+1F466	👨‍👧‍👦	👨‍👧‍👦	—	—	—	—	family: man, girl, boy
+546	U+1F468 U+200D U+1F467 U+200D U+1F467	👨‍👧‍👧	👨‍👧‍👧	—	—	—	—	family: man, girl, girl
+547	U+1F469 U+200D U+1F466	👩‍👦	👩‍👦	—	—	—	—	family: woman, boy
+548	U+1F469 U+200D U+1F466 U+200D U+1F466	👩‍👦‍👦	👩‍👦‍👦	—	—	—	—	family: woman, boy, boy
+549	U+1F469 U+200D U+1F467	👩‍👧	👩‍👧	—	—	—	—	family: woman, girl
+550	U+1F469 U+200D U+1F467 U+200D U+1F466	👩‍👧‍👦	👩‍👧‍👦	—	—	—	—	family: woman, girl, boy
+551	U+1F469 U+200D U+1F467 U+200D U+1F467	👩‍👧‍👧	👩‍👧‍👧	—	—	—	—	family: woman, girl, girl
+person-symbol
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+552	U+1F5E3	🗣	🗣	—	—	—	—	speaking head
+553	U+1F464	👤	👤	👤	—	👤	—	bust in silhouette
+554	U+1F465	👥	👥	—	—	—	—	busts in silhouette
+555	U+1FAC2	🫂	🫂	—	—	—	—	people hugging
+556	U+1F46A	👪	👪	👪	—	—	👪	family
+557	U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2	🧑‍🧑‍🧒	🧑‍🧑‍🧒	—	—	—	—	family: adult, adult, child
+558	U+1F9D1 U+200D U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2	🧑‍🧑‍🧒‍🧒	🧑‍🧑‍🧒‍🧒	—	—	—	—	family: adult, adult, child, child
+559	U+1F9D1 U+200D U+1F9D2	🧑‍🧒	🧑‍🧒	—	—	—	—	family: adult, child
+560	U+1F9D1 U+200D U+1F9D2 U+200D U+1F9D2	🧑‍🧒‍🧒	🧑‍🧒‍🧒	—	—	—	—	family: adult, child, child
+561	U+1F463	👣	👣	👣	👣	👣	👣	footprints
+562	U+1FAC6	🫆	🫆	—	—	—	—	fingerprint
+Component
+hair-style
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+563	U+1F9B0	🦰	🦰	—	—	—	—	red hair
+564	U+1F9B1	🦱	🦱	—	—	—	—	curly hair
+565	U+1F9B3	🦳	🦳	—	—	—	—	white hair
+566	U+1F9B2	🦲	🦲	—	—	—	—	bald
+Animals & Nature
+animal-mammal
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+567	U+1F435	🐵	🐵	🐵	🐵	—	🐵	monkey face
+568	U+1F412	🐒	🐒	🐒	🐒	—	—	monkey
+569	U+1F98D	🦍	🦍	—	—	—	—	gorilla
+570	U+1F9A7	🦧	🦧	—	—	—	—	orangutan
+571	U+1F436	🐶	🐶	🐶	🐶	🐶	🐶	dog face
+572	U+1F415	🐕	🐕	—	—	—	—	dog
+573	U+1F9AE	🦮	🦮	—	—	—	—	guide dog
+574	U+1F415 U+200D U+1F9BA	🐕‍🦺	🐕‍🦺	—	—	—	—	service dog
+575	U+1F429	🐩	🐩	🐩	—	—	🐩	poodle
+576	U+1F43A	🐺	🐺	🐺	🐺	—	—	wolf
+577	U+1F98A	🦊	🦊	—	—	—	—	fox
+578	U+1F99D	🦝	🦝	—	—	—	—	raccoon
+579	U+1F431	🐱	🐱	🐱	🐱	🐱	🐱	cat face
+580	U+1F408	🐈	🐈	—	—	—	—	cat
+581	U+1F408 U+200D U+2B1B	🐈‍⬛	🐈‍⬛	—	—	—	—	black cat
+582	U+1F981	🦁	🦁	—	—	—	—	lion
+583	U+1F42F	🐯	🐯	🐯	🐯	—	🐯	tiger face
+584	U+1F405	🐅	🐅	—	—	—	—	tiger
+585	U+1F406	🐆	🐆	—	—	—	—	leopard
+586	U+1F434	🐴	🐴	🐴	🐴	🐴	🐴	horse face
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+587	U+1FACE	🫎	🫎	—	—	—	—	moose
+588	U+1FACF	🫏	🫏	—	—	—	—	donkey
+589	U+1F40E	🐎	🐎	🐎	🐎	—	—	horse
+590	U+1F984	🦄	🦄	—	—	—	—	unicorn
+591	U+1F993	🦓	🦓	—	—	—	—	zebra
+592	U+1F98C	🦌	🦌	—	—	—	—	deer
+593	U+1F9AC	🦬	🦬	—	—	—	—	bison
+594	U+1F42E	🐮	🐮	🐮	🐮	—	🐮	cow face
+595	U+1F402	🐂	🐂	—	—	—	—	ox
+596	U+1F403	🐃	🐃	—	—	—	—	water buffalo
+597	U+1F404	🐄	🐄	—	—	—	—	cow
+598	U+1F437	🐷	🐷	🐷	🐷	🐷	🐷	pig face
+599	U+1F416	🐖	🐖	—	—	—	—	pig
+600	U+1F417	🐗	🐗	🐗	🐗	—	🐗	boar
+601	U+1F43D	🐽	🐽	🐽	—	—	🐽	pig nose
+602	U+1F40F	🐏	🐏	—	—	—	—	ram
+603	U+1F411	🐑	🐑	🐑	🐑	—	—	ewe
+604	U+1F410	🐐	🐐	—	—	—	—	goat
+605	U+1F42A	🐪	🐪	—	—	—	—	camel
+606	U+1F42B	🐫	🐫	🐫	🐫	—	🐫	two-hump camel
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+607	U+1F999	🦙	🦙	—	—	—	—	llama
+608	U+1F992	🦒	🦒	—	—	—	—	giraffe
+609	U+1F418	🐘	🐘	🐘	🐘	—	🐘	elephant
+610	U+1F9A3	🦣	🦣	—	—	—	—	mammoth
+611	U+1F98F	🦏	🦏	—	—	—	—	rhinoceros
+612	U+1F99B	🦛	🦛	—	—	—	—	hippopotamus
+613	U+1F42D	🐭	🐭	🐭	🐭	—	🐭	mouse face
+614	U+1F401	🐁	🐁	—	—	—	—	mouse
+615	U+1F400	🐀	🐀	—	—	—	—	rat
+616	U+1F439	🐹	🐹	🐹	🐹	—	—	hamster
+617	U+1F430	🐰	🐰	🐰	🐰	—	🐰	rabbit face
+618	U+1F407	🐇	🐇	—	—	—	—	rabbit
+619	U+1F43F	🐿	🐿	—	—	—	—	chipmunk
+620	U+1F9AB	🦫	🦫	—	—	—	—	beaver
+621	U+1F994	🦔	🦔	—	—	—	—	hedgehog
+622	U+1F987	🦇	🦇	—	—	—	—	bat
+623	U+1F43B	🐻	🐻	🐻	🐻	—	🐻	bear
+624	U+1F43B U+200D U+2744 U+FE0F	🐻‍❄️	🐻‍❄️	—	—	—	—	polar bear
+625	U+1F428	🐨	🐨	🐨	🐨	—	🐨	koala
+626	U+1F43C	🐼	🐼	🐼	—	—	🐼	panda
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+627	U+1F9A5	🦥	🦥	—	—	—	—	sloth
+628	U+1F9A6	🦦	🦦	—	—	—	—	otter
+629	U+1F9A8	🦨	🦨	—	—	—	—	skunk
+630	U+1F998	🦘	🦘	—	—	—	—	kangaroo
+631	U+1F9A1	🦡	🦡	—	—	—	—	badger
+632	U+1F43E	🐾	🐾	🐾	—	—	🐾	paw prints
+animal-bird
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+633	U+1F983	🦃	🦃	—	—	—	—	turkey
+634	U+1F414	🐔	🐔	🐔	🐔	—	🐔	chicken
+635	U+1F413	🐓	🐓	—	—	—	—	rooster
+636	U+1F423	🐣	🐣	🐣	—	—	🐣	hatching chick
+637	U+1F424	🐤	🐤	🐤	🐤	🐤	🐤	baby chick
+638	U+1F425	🐥	🐥	🐥	—	—	🐥	front-facing baby chick
+639	U+1F426	🐦	🐦	🐦	🐦	—	—	bird
+640	U+1F427	🐧	🐧	🐧	🐧	🐧	🐧	penguin
+641	U+1F54A	🕊	🕊	—	—	—	—	dove
+642	U+1F985	🦅	🦅	—	—	—	—	eagle
+643	U+1F986	🦆	🦆	—	—	—	—	duck
+644	U+1F9A2	🦢	🦢	—	—	—	—	swan
+645	U+1F989	🦉	🦉	—	—	—	—	owl
+646	U+1F9A4	🦤	🦤	—	—	—	—	dodo
+647	U+1FAB6	🪶	🪶	—	—	—	—	feather
+648	U+1F9A9	🦩	🦩	—	—	—	—	flamingo
+649	U+1F99A	🦚	🦚	—	—	—	—	peacock
+650	U+1F99C	🦜	🦜	—	—	—	—	parrot
+651	U+1FABD	🪽	🪽	—	—	—	—	wing
+652	U+1F426 U+200D U+2B1B	🐦‍⬛	🐦‍⬛	—	—	—	—	black bird
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+653	U+1FABF	🪿	🪿	—	—	—	—	goose
+654	U+1F426 U+200D U+1F525	🐦‍🔥	🐦‍🔥	—	—	—	—	phoenix
+animal-amphibian
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+655	U+1F438	🐸	🐸	🐸	🐸	—	🐸	frog
+animal-reptile
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+656	U+1F40A	🐊	🐊	—	—	—	—	crocodile
+657	U+1F422	🐢	🐢	🐢	—	—	🐢	turtle
+658	U+1F98E	🦎	🦎	—	—	—	—	lizard
+659	U+1F40D	🐍	🐍	🐍	🐍	—	🐍	snake
+660	U+1F432	🐲	🐲	🐲	—	—	🐲	dragon face
+661	U+1F409	🐉	🐉	—	—	—	—	dragon
+662	U+1F995	🦕	🦕	—	—	—	—	sauropod
+663	U+1F996	🦖	🦖	—	—	—	—	T-Rex
+animal-marine
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+664	U+1F433	🐳	🐳	🐳	🐳	—	🐳	spouting whale
+665	U+1F40B	🐋	🐋	—	—	—	—	whale
+666	U+1F42C	🐬	🐬	🐬	🐬	—	🐬	dolphin
+667	U+1FACD	🫍	🫍	—	—	—	—	orca
+668	U+1F9AD	🦭	🦭	—	—	—	—	seal
+669	U+1F41F	🐟	🐟	🐟	🐟	🐟	—	fish
+670	U+1F420	🐠	🐠	🐠	🐠	—	🐠	tropical fish
+671	U+1F421	🐡	🐡	🐡	—	—	🐡	blowfish
+672	U+1F988	🦈	🦈	—	—	—	—	shark
+673	U+1F419	🐙	🐙	🐙	🐙	—	🐙	octopus
+674	U+1F41A	🐚	🐚	🐚	🐚	—	🐚	spiral shell
+675	U+1FAB8	🪸	🪸	—	—	—	—	coral
+676	U+1FABC	🪼	🪼	—	—	—	—	jellyfish
+677	U+1F980	🦀	🦀	—	—	—	—	crab
+678	U+1F99E	🦞	🦞	—	—	—	—	lobster
+679	U+1F990	🦐	🦐	—	—	—	—	shrimp
+680	U+1F991	🦑	🦑	—	—	—	—	squid
+681	U+1F9AA	🦪	🦪	—	—	—	—	oyster
+animal-bug
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+682	U+1F40C	🐌	🐌	🐌	—	🐌	🐌	snail
+683	U+1F98B	🦋	🦋	—	—	—	—	butterfly
+684	U+1FACC	🫌	🫌	—	—	—	—	⊛ monarch butterfly
+685	U+1F41B	🐛	🐛	🐛	🐛	—	🐛	bug
+686	U+1F41C	🐜	🐜	🐜	—	—	🐜	ant
+687	U+1F41D	🐝	🐝	🐝	—	—	🐝	honeybee
+688	U+1FAB2	🪲	🪲	—	—	—	—	beetle
+689	U+1F41E	🐞	🐞	🐞	—	—	🐞	lady beetle
+690	U+1F997	🦗	🦗	—	—	—	—	cricket
+691	U+1FAB3	🪳	🪳	—	—	—	—	cockroach
+692	U+1F577	🕷	🕷	—	—	—	—	spider
+693	U+1F578	🕸	🕸	—	—	—	—	spider web
+694	U+1F982	🦂	🦂	—	—	—	—	scorpion
+695	U+1F99F	🦟	🦟	—	—	—	—	mosquito
+696	U+1FAB0	🪰	🪰	—	—	—	—	fly
+697	U+1FAB1	🪱	🪱	—	—	—	—	worm
+698	U+1F9A0	🦠	🦠	—	—	—	—	microbe
+plant-flower
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+699	U+1F490	💐	💐	💐	💐	—	💐	bouquet
+700	U+1F338	🌸	🌸	🌸	🌸	🌸	🌸	cherry blossom
+701	U+1F4AE	💮	💮	💮	—	—	💮	white flower
+702	U+1FAB7	🪷	🪷	—	—	—	—	lotus
+703	U+1F3F5	🏵	🏵	—	—	—	—	rosette
+704	U+1F339	🌹	🌹	🌹	🌹	—	🌹	rose
+705	U+1F940	🥀	🥀	—	—	—	—	wilted flower
+706	U+1F33A	🌺	🌺	🌺	🌺	—	🌺	hibiscus
+707	U+1F33B	🌻	🌻	🌻	🌻	—	🌻	sunflower
+708	U+1F33C	🌼	🌼	🌼	—	—	🌼	blossom
+709	U+1F337	🌷	🌷	🌷	🌷	🌷	🌷	tulip
+710	U+1FABB	🪻	🪻	—	—	—	—	hyacinth
+plant-other
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+711	U+1F331	🌱	🌱	🌱	—	🌱	🌱	seedling
+712	U+1FAB4	🪴	🪴	—	—	—	—	potted plant
+713	U+1F332	🌲	🌲	—	—	—	—	evergreen tree
+714	U+1F333	🌳	🌳	—	—	—	—	deciduous tree
+715	U+1F334	🌴	🌴	🌴	🌴	—	🌴	palm tree
+716	U+1F335	🌵	🌵	🌵	🌵	—	🌵	cactus
+717	U+1F33E	🌾	🌾	🌾	🌾	—	—	sheaf of rice
+718	U+1F33F	🌿	🌿	🌿	—	—	🌿	herb
+719	U+2618	☘	☘	—	—	—	—	shamrock
+720	U+1F340	🍀	🍀	🍀	🍀	🍀	🍀	four leaf clover
+721	U+1F341	🍁	🍁	🍁	🍁	🍁	🍁	maple leaf
+722	U+1F342	🍂	🍂	🍂	🍂	—	🍂	fallen leaf
+723	U+1F343	🍃	🍃	🍃	🍃	—	—	leaf fluttering in wind
+724	U+1FAB9	🪹	🪹	—	—	—	—	empty nest
+725	U+1FABA	🪺	🪺	—	—	—	—	nest with eggs
+726	U+1F344	🍄	🍄	🍄	—	—	🍄	mushroom
+727	U+1FABE	🪾	🪾	—	—	—	—	leafless tree
+Food & Drink
+food-fruit
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+728	U+1F347	🍇	🍇	🍇	—	—	🍇	grapes
+729	U+1F348	🍈	🍈	🍈	—	—	🍈	melon
+730	U+1F349	🍉	🍉	🍉	🍉	—	🍉	watermelon
+731	U+1F34A	🍊	🍊	🍊	🍊	—	🍊	tangerine
+732	U+1F34B	🍋	🍋	—	—	—	—	lemon
+733	U+1F34B U+200D U+1F7E9	🍋‍🟩	🍋‍🟩	—	—	—	—	lime
+734	U+1F34C	🍌	🍌	🍌	—	🍌	🍌	banana
+735	U+1F34D	🍍	🍍	🍍	—	—	🍍	pineapple
+736	U+1F96D	🥭	🥭	—	—	—	—	mango
+737	U+1F34E	🍎	🍎	🍎	🍎	🍎	🍎	red apple
+738	U+1F34F	🍏	🍏	🍏	—	—	🍏	green apple
+739	U+1F350	🍐	🍐	—	—	—	—	pear
+740	U+1F351	🍑	🍑	🍑	—	—	🍑	peach
+741	U+1F352	🍒	🍒	🍒	—	🍒	🍒	cherries
+742	U+1F353	🍓	🍓	🍓	🍓	—	🍓	strawberry
+743	U+1FAD0	🫐	🫐	—	—	—	—	blueberries
+744	U+1F95D	🥝	🥝	—	—	—	—	kiwi fruit
+745	U+1F345	🍅	🍅	🍅	🍅	—	🍅	tomato
+746	U+1FAD2	🫒	🫒	—	—	—	—	olive
+747	U+1F965	🥥	🥥	—	—	—	—	coconut
+food-vegetable
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+748	U+1F951	🥑	🥑	—	—	—	—	avocado
+749	U+1F346	🍆	🍆	🍆	🍆	—	🍆	eggplant
+750	U+1F954	🥔	🥔	—	—	—	—	potato
+751	U+1F955	🥕	🥕	—	—	—	—	carrot
+752	U+1F33D	🌽	🌽	🌽	—	—	🌽	ear of corn
+753	U+1F336	🌶	🌶	—	—	—	—	hot pepper
+754	U+1FAD1	🫑	🫑	—	—	—	—	bell pepper
+755	U+1F952	🥒	🥒	—	—	—	—	cucumber
+756	U+1FADD	🫝	🫝	—	—	—	—	⊛ pickle
+757	U+1F96C	🥬	🥬	—	—	—	—	leafy green
+758	U+1F966	🥦	🥦	—	—	—	—	broccoli
+759	U+1F9C4	🧄	🧄	—	—	—	—	garlic
+760	U+1F9C5	🧅	🧅	—	—	—	—	onion
+761	U+1F95C	🥜	🥜	—	—	—	—	peanuts
+762	U+1FAD8	🫘	🫘	—	—	—	—	beans
+763	U+1F330	🌰	🌰	🌰	—	—	🌰	chestnut
+764	U+1FADA	🫚	🫚	—	—	—	—	ginger root
+765	U+1FADB	🫛	🫛	—	—	—	—	pea pod
+766	U+1F344 U+200D U+1F7EB	🍄‍🟫	🍄‍🟫	—	—	—	—	brown mushroom
+767	U+1FADC	🫜	🫜	—	—	—	—	root vegetable
+food-prepared
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+768	U+1F35E	🍞	🍞	🍞	🍞	🍞	🍞	bread
+769	U+1F950	🥐	🥐	—	—	—	—	croissant
+770	U+1F956	🥖	🥖	—	—	—	—	baguette bread
+771	U+1FAD3	🫓	🫓	—	—	—	—	flatbread
+772	U+1F968	🥨	🥨	—	—	—	—	pretzel
+773	U+1F96F	🥯	🥯	—	—	—	—	bagel
+774	U+1F95E	🥞	🥞	—	—	—	—	pancakes
+775	U+1F9C7	🧇	🧇	—	—	—	—	waffle
+776	U+1F9C0	🧀	🧀	—	—	—	—	cheese wedge
+777	U+1F356	🍖	🍖	🍖	—	—	🍖	meat on bone
+778	U+1F357	🍗	🍗	🍗	—	—	🍗	poultry leg
+779	U+1F969	🥩	🥩	—	—	—	—	cut of meat
+780	U+1F953	🥓	🥓	—	—	—	—	bacon
+781	U+1F354	🍔	🍔	🍔	🍔	🍔	🍔	hamburger
+782	U+1F35F	🍟	🍟	🍟	🍟	—	🍟	french fries
+783	U+1F355	🍕	🍕	🍕	—	—	🍕	pizza
+784	U+1F32D	🌭	🌭	—	—	—	—	hot dog
+785	U+1F96A	🥪	🥪	—	—	—	—	sandwich
+786	U+1F32E	🌮	🌮	—	—	—	—	taco
+787	U+1F32F	🌯	🌯	—	—	—	—	burrito
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+788	U+1FAD4	🫔	🫔	—	—	—	—	tamale
+789	U+1F959	🥙	🥙	—	—	—	—	stuffed flatbread
+790	U+1F9C6	🧆	🧆	—	—	—	—	falafel
+791	U+1F95A	🥚	🥚	—	—	—	—	egg
+792	U+1F373	🍳	🍳	🍳	🍳	—	🍳	cooking
+793	U+1F958	🥘	🥘	—	—	—	—	shallow pan of food
+794	U+1F372	🍲	🍲	🍲	🍲	—	🍲	pot of food
+795	U+1FAD5	🫕	🫕	—	—	—	—	fondue
+796	U+1F963	🥣	🥣	—	—	—	—	bowl with spoon
+797	U+1F957	🥗	🥗	—	—	—	—	green salad
+798	U+1F37F	🍿	🍿	—	—	—	—	popcorn
+799	U+1F9C8	🧈	🧈	—	—	—	—	butter
+800	U+1F9C2	🧂	🧂	—	—	—	—	salt
+801	U+1F96B	🥫	🥫	—	—	—	—	canned food
+food-asian
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+802	U+1F371	🍱	🍱	🍱	🍱	—	🍱	bento box
+803	U+1F358	🍘	🍘	🍘	🍘	—	🍘	rice cracker
+804	U+1F359	🍙	🍙	🍙	🍙	🍙	🍙	rice ball
+805	U+1F35A	🍚	🍚	🍚	🍚	—	🍚	cooked rice
+806	U+1F35B	🍛	🍛	🍛	🍛	—	🍛	curry rice
+807	U+1F35C	🍜	🍜	🍜	🍜	🍜	🍜	steaming bowl
+808	U+1F35D	🍝	🍝	🍝	🍝	—	🍝	spaghetti
+809	U+1F360	🍠	🍠	🍠	—	—	🍠	roasted sweet potato
+810	U+1F362	🍢	🍢	🍢	🍢	—	🍢	oden
+811	U+1F363	🍣	🍣	🍣	🍣	—	🍣	sushi
+812	U+1F364	🍤	🍤	🍤	—	—	🍤	fried shrimp
+813	U+1F365	🍥	🍥	🍥	—	—	🍥	fish cake with swirl
+814	U+1F96E	🥮	🥮	—	—	—	—	moon cake
+815	U+1F361	🍡	🍡	🍡	🍡	—	🍡	dango
+816	U+1F95F	🥟	🥟	—	—	—	—	dumpling
+817	U+1F960	🥠	🥠	—	—	—	—	fortune cookie
+818	U+1F961	🥡	🥡	—	—	—	—	takeout box
+food-sweet
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+819	U+1F366	🍦	🍦	🍦	🍦	—	🍦	soft ice cream
+820	U+1F367	🍧	🍧	🍧	🍧	—	🍧	shaved ice
+821	U+1F368	🍨	🍨	🍨	—	—	🍨	ice cream
+822	U+1F369	🍩	🍩	🍩	—	—	🍩	doughnut
+823	U+1F36A	🍪	🍪	🍪	—	—	🍪	cookie
+824	U+1F382	🎂	🎂	🎂	🎂	🎂	🎂	birthday cake
+825	U+1F370	🍰	🍰	🍰	🍰	🍰	🍰	shortcake
+826	U+1F9C1	🧁	🧁	—	—	—	—	cupcake
+827	U+1F967	🥧	🥧	—	—	—	—	pie
+828	U+1F36B	🍫	🍫	🍫	—	—	🍫	chocolate bar
+829	U+1F36C	🍬	🍬	🍬	—	—	🍬	candy
+830	U+1F36D	🍭	🍭	🍭	—	—	🍭	lollipop
+831	U+1F36E	🍮	🍮	🍮	—	—	🍮	custard
+832	U+1F36F	🍯	🍯	🍯	—	—	🍯	honey pot
+drink
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+833	U+1F37C	🍼	🍼	—	—	—	—	baby bottle
+834	U+1F95B	🥛	🥛	—	—	—	—	glass of milk
+835	U+2615	☕	☕	☕	☕	☕	☕	hot beverage
+836	U+1FAD6	🫖	🫖	—	—	—	—	teapot
+837	U+1F375	🍵	🍵	🍵	🍵	🍵	🍵	teacup without handle
+838	U+1F376	🍶	🍶	🍶	🍶	🍶	🍶	sake
+839	U+1F37E	🍾	🍾	—	—	—	—	bottle with popping cork
+840	U+1F377	🍷	🍷	🍷	—	🍷	🍷	wine glass
+841	U+1F378	🍸	🍸	🍸	🍸	🍸	🍸	cocktail glass
+842	U+1F379	🍹	🍹	🍹	—	—	🍹	tropical drink
+843	U+1F37A	🍺	🍺	🍺	🍺	🍺	🍺	beer mug
+844	U+1F37B	🍻	🍻	🍻	🍻	—	🍻	clinking beer mugs
+845	U+1F942	🥂	🥂	—	—	—	—	clinking glasses
+846	U+1F943	🥃	🥃	—	—	—	—	tumbler glass
+847	U+1FAD7	🫗	🫗	—	—	—	—	pouring liquid
+848	U+1F964	🥤	🥤	—	—	—	—	cup with straw
+849	U+1F9CB	🧋	🧋	—	—	—	—	bubble tea
+850	U+1F9C3	🧃	🧃	—	—	—	—	beverage box
+851	U+1F9C9	🧉	🧉	—	—	—	—	mate
+852	U+1F9CA	🧊	🧊	—	—	—	—	ice
+dishware
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+853	U+1F962	🥢	🥢	—	—	—	—	chopsticks
+854	U+1F37D	🍽	🍽	—	—	—	—	fork and knife with plate
+855	U+1F374	🍴	🍴	🍴	🍴	🍴	🍴	fork and knife
+856	U+1F944	🥄	🥄	—	—	—	—	spoon
+857	U+1F52A	🔪	🔪	🔪	—	—	🔪	kitchen knife
+858	U+1FAD9	🫙	🫙	—	—	—	—	jar
+859	U+1F3FA	🏺	🏺	—	—	—	—	amphora
+Travel & Places
+place-map
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+860	U+1F30D	🌍	🌍	—	—	—	—	globe showing Europe-Africa
+861	U+1F30E	🌎	🌎	—	—	—	—	globe showing Americas
+862	U+1F30F	🌏	🌏	🌏	—	—	🌏	globe showing Asia-Australia
+863	U+1F310	🌐	🌐	—	—	—	—	globe with meridians
+864	U+1F5FA	🗺	🗺	—	—	—	—	world map
+865	U+1F5FE	🗾	🗾	🗾	—	—	🗾	map of Japan
+866	U+1F9ED	🧭	🧭	—	—	—	—	compass
+place-geographic
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+867	U+1F3D4	🏔	🏔	—	—	—	—	snow-capped mountain
+868	U+26F0	⛰	⛰	—	—	—	—	mountain
+869	U+1F6D8	🛘	🛘	—	—	—	—	landslide
+870	U+1F30B	🌋	🌋	🌋	—	—	🌋	volcano
+871	U+1F5FB	🗻	🗻	🗻	🗻	🗻	🗻	mount fuji
+872	U+1F3D5	🏕	🏕	—	—	—	—	camping
+873	U+1F3D6	🏖	🏖	—	—	—	—	beach with umbrella
+874	U+1F3DC	🏜	🏜	—	—	—	—	desert
+875	U+1F3DD	🏝	🏝	—	—	—	—	desert island
+876	U+1F3DE	🏞	🏞	—	—	—	—	national park
+place-building
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+877	U+1F3DF	🏟	🏟	—	—	—	—	stadium
+878	U+1F3DB	🏛	🏛	—	—	—	—	classical building
+879	U+1F3D7	🏗	🏗	—	—	—	—	building construction
+880	U+1F9F1	🧱	🧱	—	—	—	—	brick
+881	U+1FAA8	🪨	🪨	—	—	—	—	rock
+882	U+1FAB5	🪵	🪵	—	—	—	—	wood
+883	U+1F6D6	🛖	🛖	—	—	—	—	hut
+884	U+1F3D8	🏘	🏘	—	—	—	—	houses
+885	U+1F3DA	🏚	🏚	—	—	—	—	derelict house
+886	U+1F3E0	🏠	🏠	🏠	🏠	🏠	🏠	house
+887	U+1F3E1	🏡	🏡	🏡	—	—	🏡	house with garden
+888	U+1F3E2	🏢	🏢	🏢	🏢	🏢	🏢	office building
+889	U+1F3E3	🏣	🏣	🏣	🏣	🏣	🏣	Japanese post office
+890	U+1F3E4	🏤	🏤	—	—	—	—	post office
+891	U+1F3E5	🏥	🏥	🏥	🏥	🏥	🏥	hospital
+892	U+1F3E6	🏦	🏦	🏦	🏦	🏦	🏦	bank
+893	U+1F3E8	🏨	🏨	🏨	🏨	🏨	🏨	hotel
+894	U+1F3E9	🏩	🏩	🏩	🏩	—	🏩	love hotel
+895	U+1F3EA	🏪	🏪	🏪	🏪	🏪	🏪	convenience store
+896	U+1F3EB	🏫	🏫	🏫	🏫	🏫	🏫	school
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+897	U+1F3EC	🏬	🏬	🏬	🏬	—	🏬	department store
+898	U+1F3ED	🏭	🏭	🏭	🏭	—	🏭	factory
+899	U+1F3EF	🏯	🏯	🏯	🏯	—	🏯	Japanese castle
+900	U+1F3F0	🏰	🏰	🏰	🏰	—	🏰	castle
+901	U+1F492	💒	💒	💒	💒	—	—	wedding
+902	U+1F5FC	🗼	🗼	🗼	🗼	—	🗼	Tokyo tower
+903	U+1F5FD	🗽	🗽	🗽	🗽	—	—	Statue of Liberty
+place-religious
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+904	U+26EA	⛪	⛪	⛪	⛪	—	⛪	church
+905	U+1F54C	🕌	🕌	—	—	—	—	mosque
+906	U+1F6D5	🛕	🛕	—	—	—	—	hindu temple
+907	U+1F54D	🕍	🕍	—	—	—	—	synagogue
+908	U+26E9	⛩	⛩	—	—	—	—	shinto shrine
+909	U+1F54B	🕋	🕋	—	—	—	—	kaaba
+place-other
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+910	U+26F2	⛲	⛲	⛲	⛲	—	⛲	fountain
+911	U+26FA	⛺	⛺	⛺	⛺	—	⛺	tent
+912	U+1F301	🌁	🌁	🌁	—	🌁	🌁	foggy
+913	U+1F303	🌃	🌃	🌃	🌃	🌃	🌃	night with stars
+914	U+1F3D9	🏙	🏙	—	—	—	—	cityscape
+915	U+1F304	🌄	🌄	🌄	🌄	—	—	sunrise over mountains
+916	U+1F305	🌅	🌅	🌅	🌅	—	🌅	sunrise
+917	U+1F306	🌆	🌆	🌆	🌆	—	🌆	cityscape at dusk
+918	U+1F307	🌇	🌇	🌇	🌇	—	—	sunset
+919	U+1F309	🌉	🌉	🌉	—	—	🌉	bridge at night
+920	U+2668	♨	♨	♨	♨	♨	♨	hot springs
+921	U+1F3A0	🎠	🎠	🎠	—	🎠	—	carousel horse
+922	U+1F6DD	🛝	🛝	—	—	—	—	playground slide
+923	U+1F3A1	🎡	🎡	🎡	🎡	—	🎡	ferris wheel
+924	U+1F3A2	🎢	🎢	🎢	🎢	—	🎢	roller coaster
+925	U+1F488	💈	💈	💈	💈	—	💈	barber pole
+926	U+1F3AA	🎪	🎪	🎪	—	🎪	🎪	circus tent
+transport-ground
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+927	U+1F682	🚂	🚂	—	—	—	—	locomotive
+928	U+1F683	🚃	🚃	🚃	🚃	🚃	🚃	railway car
+929	U+1F684	🚄	🚄	🚄	🚄	🚄	—	high-speed train
+930	U+1F685	🚅	🚅	🚅	🚅	—	🚅	bullet train
+931	U+1F686	🚆	🚆	—	—	—	—	train
+932	U+1F687	🚇	🚇	🚇	🚇	—	🚇	metro
+933	U+1F688	🚈	🚈	—	—	—	—	light rail
+934	U+1F689	🚉	🚉	🚉	🚉	—	🚉	station
+935	U+1F68A	🚊	🚊	—	—	—	—	tram
+936	U+1F69D	🚝	🚝	—	—	—	—	monorail
+937	U+1F69E	🚞	🚞	—	—	—	—	mountain railway
+938	U+1F68B	🚋	🚋	—	—	—	—	tram car
+939	U+1F68C	🚌	🚌	🚌	🚌	🚌	🚌	bus
+940	U+1F68D	🚍	🚍	—	—	—	—	oncoming bus
+941	U+1F68E	🚎	🚎	—	—	—	—	trolleybus
+942	U+1F690	🚐	🚐	—	—	—	—	minibus
+943	U+1F691	🚑	🚑	🚑	🚑	—	🚑	ambulance
+944	U+1F692	🚒	🚒	🚒	🚒	—	🚒	fire engine
+945	U+1F693	🚓	🚓	🚓	🚓	—	🚓	police car
+946	U+1F694	🚔	🚔	—	—	—	—	oncoming police car
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+947	U+1F695	🚕	🚕	🚕	🚕	—	—	taxi
+948	U+1F696	🚖	🚖	—	—	—	—	oncoming taxi
+949	U+1F697	🚗	🚗	🚗	🚗	🚗	🚗	automobile
+950	U+1F698	🚘	🚘	—	—	—	—	oncoming automobile
+951	U+1F699	🚙	🚙	🚙	🚙	🚙	—	sport utility vehicle
+952	U+1F6FB	🛻	🛻	—	—	—	—	pickup truck
+953	U+1F69A	🚚	🚚	🚚	🚚	—	🚚	delivery truck
+954	U+1F69B	🚛	🚛	—	—	—	—	articulated lorry
+955	U+1F69C	🚜	🚜	—	—	—	—	tractor
+956	U+1F3CE	🏎	🏎	—	—	—	—	racing car
+957	U+1F3CD	🏍	🏍	—	—	—	—	motorcycle
+958	U+1F6F5	🛵	🛵	—	—	—	—	motor scooter
+959	U+1F9BD	🦽	🦽	—	—	—	—	manual wheelchair
+960	U+1F9BC	🦼	🦼	—	—	—	—	motorized wheelchair
+961	U+1F6FA	🛺	🛺	—	—	—	—	auto rickshaw
+962	U+1F6B2	🚲	🚲	🚲	🚲	🚲	🚲	bicycle
+963	U+1F6F4	🛴	🛴	—	—	—	—	kick scooter
+964	U+1F6F9	🛹	🛹	—	—	—	—	skateboard
+965	U+1F6FC	🛼	🛼	—	—	—	—	roller skate
+966	U+1F68F	🚏	🚏	🚏	🚏	—	🚏	bus stop
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+967	U+1F6E3	🛣	🛣	—	—	—	—	motorway
+968	U+1F6E4	🛤	🛤	—	—	—	—	railway track
+969	U+1F6E2	🛢	🛢	—	—	—	—	oil drum
+970	U+26FD	⛽	⛽	⛽	⛽	⛽	⛽	fuel pump
+971	U+1F6DE	🛞	🛞	—	—	—	—	wheel
+972	U+1F6A8	🚨	🚨	🚨	—	—	🚨	police car light
+973	U+1F6A5	🚥	🚥	🚥	🚥	🚥	🚥	horizontal traffic light
+974	U+1F6A6	🚦	🚦	—	—	—	—	vertical traffic light
+975	U+1F6D1	🛑	🛑	—	—	—	—	stop sign
+976	U+1F6A7	🚧	🚧	🚧	🚧	—	🚧	construction
+transport-water
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+977	U+1F6D9	🛙	🛙	—	—	—	—	⊛ lighthouse
+978	U+2693	⚓	⚓	⚓	—	—	⚓	anchor
+979	U+1F6DF	🛟	🛟	—	—	—	—	ring buoy
+980	U+26F5	⛵	⛵	⛵	⛵	⛵	⛵	sailboat
+981	U+1F6F6	🛶	🛶	—	—	—	—	canoe
+982	U+1F6A4	🚤	🚤	🚤	🚤	—	—	speedboat
+983	U+1F6F3	🛳	🛳	—	—	—	—	passenger ship
+984	U+26F4	⛴	⛴	—	—	—	—	ferry
+985	U+1F6E5	🛥	🛥	—	—	—	—	motor boat
+986	U+1F6A2	🚢	🚢	🚢	🚢	🚢	🚢	ship
+transport-air
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+987	U+2708	✈	✈	✈	✈	✈	✈	airplane
+988	U+1F6E9	🛩	🛩	—	—	—	—	small airplane
+989	U+1F6EB	🛫	🛫	—	—	—	—	airplane departure
+990	U+1F6EC	🛬	🛬	—	—	—	—	airplane arrival
+991	U+1FA82	🪂	🪂	—	—	—	—	parachute
+992	U+1F4BA	💺	💺	💺	💺	💺	—	seat
+993	U+1F681	🚁	🚁	—	—	—	—	helicopter
+994	U+1F69F	🚟	🚟	—	—	—	—	suspension railway
+995	U+1F6A0	🚠	🚠	—	—	—	—	mountain cableway
+996	U+1F6A1	🚡	🚡	—	—	—	—	aerial tramway
+997	U+1F6F0	🛰	🛰	—	—	—	—	satellite
+998	U+1F680	🚀	🚀	🚀	🚀	—	🚀	rocket
+999	U+1F6F8	🛸	🛸	—	—	—	—	flying saucer
+hotel
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1000	U+1F6CE	🛎	🛎	—	—	—	—	bellhop bell
+1001	U+1F9F3	🧳	🧳	—	—	—	—	luggage
+time
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1002	U+231B	⌛	⌛	⌛	—	—	⌛	hourglass done
+1003	U+23F3	⏳	⏳	⏳	—	⏳	⏳	hourglass not done
+1004	U+231A	⌚	⌚	⌚	—	⌚	⌚	watch
+1005	U+23F0	⏰	⏰	⏰	—	⏰	⏰	alarm clock
+1006	U+23F1	⏱	⏱	—	—	—	—	stopwatch
+1007	U+23F2	⏲	⏲	—	—	—	—	timer clock
+1008	U+1F570	🕰	🕰	—	—	—	—	mantelpiece clock
+1009	U+1F55B	🕛	🕛	🕛	🕛	—	—	twelve o’clock
+1010	U+1F567	🕧	🕧	—	—	—	—	twelve-thirty
+1011	U+1F550	🕐	🕐	🕐	🕐	—	—	one o’clock
+1012	U+1F55C	🕜	🕜	—	—	—	—	one-thirty
+1013	U+1F551	🕑	🕑	🕑	🕑	—	—	two o’clock
+1014	U+1F55D	🕝	🕝	—	—	—	—	two-thirty
+1015	U+1F552	🕒	🕒	🕒	🕒	—	—	three o’clock
+1016	U+1F55E	🕞	🕞	—	—	—	—	three-thirty
+1017	U+1F553	🕓	🕓	🕓	🕓	—	—	four o’clock
+1018	U+1F55F	🕟	🕟	—	—	—	—	four-thirty
+1019	U+1F554	🕔	🕔	🕔	🕔	—	—	five o’clock
+1020	U+1F560	🕠	🕠	—	—	—	—	five-thirty
+1021	U+1F555	🕕	🕕	🕕	🕕	—	—	six o’clock
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1022	U+1F561	🕡	🕡	—	—	—	—	six-thirty
+1023	U+1F556	🕖	🕖	🕖	🕖	—	—	seven o’clock
+1024	U+1F562	🕢	🕢	—	—	—	—	seven-thirty
+1025	U+1F557	🕗	🕗	🕗	🕗	—	—	eight o’clock
+1026	U+1F563	🕣	🕣	—	—	—	—	eight-thirty
+1027	U+1F558	🕘	🕘	🕘	🕘	—	—	nine o’clock
+1028	U+1F564	🕤	🕤	—	—	—	—	nine-thirty
+1029	U+1F559	🕙	🕙	🕙	🕙	—	—	ten o’clock
+1030	U+1F565	🕥	🕥	—	—	—	—	ten-thirty
+1031	U+1F55A	🕚	🕚	🕚	🕚	—	—	eleven o’clock
+1032	U+1F566	🕦	🕦	—	—	—	—	eleven-thirty
+sky & weather
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1033	U+1F311	🌑	🌑	🌑	—	🌑	🌑	new moon
+1034	U+1F312	🌒	🌒	—	—	—	—	waxing crescent moon
+1035	U+1F313	🌓	🌓	🌓	—	🌓	🌓	first quarter moon
+1036	U+1F314	🌔	🌔	🌔	—	🌔	🌔	waxing gibbous moon
+1037	U+1F315	🌕	🌕	🌕	—	🌕	—	full moon
+1038	U+1F316	🌖	🌖	—	—	—	—	waning gibbous moon
+1039	U+1F317	🌗	🌗	—	—	—	—	last quarter moon
+1040	U+1F318	🌘	🌘	—	—	—	—	waning crescent moon
+1041	U+1F319	🌙	🌙	🌙	🌙	🌙	🌙	crescent moon
+1042	U+1F31A	🌚	🌚	—	—	—	—	new moon face
+1043	U+1F31B	🌛	🌛	🌛	—	—	🌛	first quarter moon face
+1044	U+1F31C	🌜	🌜	—	—	—	—	last quarter moon face
+1045	U+1F321	🌡	🌡	—	—	—	—	thermometer
+1046	U+2600	☀	☀	☀	☀	☀	☀	sun
+1047	U+1F31D	🌝	🌝	—	—	—	—	full moon face
+1048	U+1F31E	🌞	🌞	—	—	—	—	sun with face
+1049	U+1FA90	🪐	🪐	—	—	—	—	ringed planet
+1050	U+2B50	⭐	⭐	—	⭐	—	⭐	star
+1051	U+1F31F	🌟	🌟	🌟	🌟	—	—	glowing star
+1052	U+1F320	🌠	🌠	🌠	—	—	🌠	shooting star
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1053	U+1F30C	🌌	🌌	🌌	—	—	🌌	milky way
+1054	U+2601	☁	☁	☁	☁	☁	☁	cloud
+1055	U+26C5	⛅	⛅	⛅	—	—	⛅	sun behind cloud
+1056	U+26C8	⛈	⛈	—	—	—	—	cloud with lightning and rain
+1057	U+1F324	🌤	🌤	—	—	—	—	sun behind small cloud
+1058	U+1F325	🌥	🌥	—	—	—	—	sun behind large cloud
+1059	U+1F326	🌦	🌦	—	—	—	—	sun behind rain cloud
+1060	U+1F327	🌧	🌧	—	—	—	—	cloud with rain
+1061	U+1F328	🌨	🌨	—	—	—	—	cloud with snow
+1062	U+1F329	🌩	🌩	—	—	—	—	cloud with lightning
+1063	U+1F32A	🌪	🌪	—	—	—	—	tornado
+1064	U+1F32B	🌫	🌫	—	—	—	—	fog
+1065	U+1F32C	🌬	🌬	—	—	—	—	wind face
+1066	U+1F300	🌀	🌀	🌀	🌀	🌀	🌀	cyclone
+1067	U+1F308	🌈	🌈	🌈	🌈	—	🌈	rainbow
+1068	U+1F302	🌂	🌂	🌂	🌂	🌂	🌂	closed umbrella
+1069	U+2602	☂	☂	—	—	—	—	umbrella
+1070	U+2614	☔	☔	☔	☔	☔	☔	umbrella with rain drops
+1071	U+26F1	⛱	⛱	—	—	—	—	umbrella on ground
+1072	U+26A1	⚡	⚡	⚡	⚡	⚡	⚡	high voltage
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1073	U+2744	❄	❄	❄	—	—	❄	snowflake
+1074	U+2603	☃	☃	—	—	—	—	snowman
+1075	U+26C4	⛄	⛄	⛄	⛄	⛄	⛄	snowman without snow
+1076	U+2604	☄	☄	—	—	—	—	comet
+1077	U+1FA8B	🪋	🪋	—	—	—	—	⊛ meteor
+1078	U+1F525	🔥	🔥	🔥	🔥	—	🔥	fire
+1079	U+1F4A7	💧	💧	💧	—	💧	💧	droplet
+1080	U+1F30A	🌊	🌊	🌊	🌊	🌊	🌊	water wave
+Activities
+event
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1081	U+1F383	🎃	🎃	🎃	🎃	—	🎃	jack-o-lantern
+1082	U+1F384	🎄	🎄	🎄	🎄	🎄	🎄	Christmas tree
+1083	U+1F386	🎆	🎆	🎆	🎆	—	🎆	fireworks
+1084	U+1F387	🎇	🎇	🎇	🎇	—	🎇	sparkler
+1085	U+1F9E8	🧨	🧨	—	—	—	—	firecracker
+1086	U+2728	✨	✨	✨	✨	✨	✨	sparkles
+1087	U+1F388	🎈	🎈	🎈	🎈	—	🎈	balloon
+1088	U+1F389	🎉	🎉	🎉	🎉	—	🎉	party popper
+1089	U+1F38A	🎊	🎊	🎊	—	—	🎊	confetti ball
+1090	U+1F38B	🎋	🎋	🎋	—	—	🎋	tanabata tree
+1091	U+1F38D	🎍	🎍	🎍	🎍	—	🎍	pine decoration
+1092	U+1F38E	🎎	🎎	🎎	🎎	—	🎎	Japanese dolls
+1093	U+1F38F	🎏	🎏	🎏	🎏	—	🎏	carp streamer
+1094	U+1F390	🎐	🎐	🎐	🎐	—	🎐	wind chime
+1095	U+1F391	🎑	🎑	🎑	🎑	—	🎑	moon viewing ceremony
+1096	U+1F9E7	🧧	🧧	—	—	—	—	red envelope
+1097	U+1F380	🎀	🎀	🎀	🎀	🎀	🎀	ribbon
+1098	U+1F381	🎁	🎁	🎁	🎁	🎁	🎁	wrapped gift
+1099	U+1F397	🎗	🎗	—	—	—	—	reminder ribbon
+1100	U+1F39F	🎟	🎟	—	—	—	—	admission tickets
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1101	U+1F3AB	🎫	🎫	🎫	🎫	🎫	🎫	ticket
+award-medal
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1102	U+1F396	🎖	🎖	—	—	—	—	military medal
+1103	U+1F3C6	🏆	🏆	🏆	🏆	—	🏆	trophy
+1104	U+1F3C5	🏅	🏅	—	—	—	—	sports medal
+1105	U+1F947	🥇	🥇	—	—	—	—	1st place medal
+1106	U+1F948	🥈	🥈	—	—	—	—	2nd place medal
+1107	U+1F949	🥉	🥉	—	—	—	—	3rd place medal
+sport
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1108	U+26BD	⚽	⚽	⚽	⚽	⚽	⚽	soccer ball
+1109	U+26BE	⚾	⚾	⚾	⚾	⚾	⚾	baseball
+1110	U+1F94E	🥎	🥎	—	—	—	—	softball
+1111	U+1F3C0	🏀	🏀	🏀	🏀	🏀	🏀	basketball
+1112	U+1F3D0	🏐	🏐	—	—	—	—	volleyball
+1113	U+1F3C8	🏈	🏈	🏈	🏈	—	🏈	american football
+1114	U+1F3C9	🏉	🏉	—	—	—	—	rugby football
+1115	U+1F3BE	🎾	🎾	🎾	🎾	🎾	🎾	tennis
+1116	U+1F94F	🥏	🥏	—	—	—	—	flying disc
+1117	U+1F3B3	🎳	🎳	🎳	—	—	🎳	bowling
+1118	U+1F3CF	🏏	🏏	—	—	—	—	cricket game
+1119	U+1F3D1	🏑	🏑	—	—	—	—	field hockey
+1120	U+1F3D2	🏒	🏒	—	—	—	—	ice hockey
+1121	U+1F94D	🥍	🥍	—	—	—	—	lacrosse
+1122	U+1F3D3	🏓	🏓	—	—	—	—	ping pong
+1123	U+1F3F8	🏸	🏸	—	—	—	—	badminton
+1124	U+1F94A	🥊	🥊	—	—	—	—	boxing glove
+1125	U+1F94B	🥋	🥋	—	—	—	—	martial arts uniform
+1126	U+1F945	🥅	🥅	—	—	—	—	goal net
+1127	U+26F3	⛳	⛳	⛳	⛳	⛳	⛳	flag in hole
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1128	U+26F8	⛸	⛸	—	—	—	—	ice skate
+1129	U+1F3A3	🎣	🎣	🎣	—	—	🎣	fishing pole
+1130	U+1F93F	🤿	🤿	—	—	—	—	diving mask
+1131	U+1F3BD	🎽	🎽	🎽	—	🎽	—	running shirt
+1132	U+1F3BF	🎿	🎿	🎿	🎿	🎿	🎿	skis
+1133	U+1F6F7	🛷	🛷	—	—	—	—	sled
+1134	U+1F94C	🥌	🥌	—	—	—	—	curling stone
+game
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1135	U+1F3AF	🎯	🎯	🎯	🎯	—	🎯	bullseye
+1136	U+1FA80	🪀	🪀	—	—	—	—	yo-yo
+1137	U+1FA81	🪁	🪁	—	—	—	—	kite
+1138	U+1F52B	🔫	🔫	🔫	🔫	—	🔫	water pistol
+1139	U+1F3B1	🎱	🎱	🎱	🎱	—	🎱	pool 8 ball
+1140	U+1F52E	🔮	🔮	🔮	—	—	🔮	crystal ball
+1141	U+1FA84	🪄	🪄	—	—	—	—	magic wand
+1142	U+1F3AE	🎮	🎮	🎮	—	🎮	🎮	video game
+1143	U+1F579	🕹	🕹	—	—	—	—	joystick
+1144	U+1F3B0	🎰	🎰	🎰	🎰	—	🎰	slot machine
+1145	U+1F3B2	🎲	🎲	🎲	—	—	🎲	game die
+1146	U+1F9E9	🧩	🧩	—	—	—	—	puzzle piece
+1147	U+1F9F8	🧸	🧸	—	—	—	—	teddy bear
+1148	U+1FA85	🪅	🪅	—	—	—	—	piñata
+1149	U+1FAA9	🪩	🪩	—	—	—	—	mirror ball
+1150	U+1FA86	🪆	🪆	—	—	—	—	nesting dolls
+1151	U+2660	♠	♠	♠	♠	♠	♠	spade suit
+1152	U+2665	♥	♥	♥	♥	♥	♥	heart suit
+1153	U+2666	♦	♦	♦	♦	♦	♦	diamond suit
+1154	U+2663	♣	♣	♣	♣	♣	♣	club suit
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1155	U+265F	♟	♟	—	—	—	—	chess pawn
+1156	U+1F0CF	🃏	🃏	🃏	—	—	🃏	joker
+1157	U+1F004	🀄	🀄	🀄	🀄	—	🀄	mahjong red dragon
+1158	U+1F3B4	🎴	🎴	🎴	—	—	🎴	flower playing cards
+arts & crafts
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1159	U+1F3AD	🎭	🎭	🎭	—	—	🎭	performing arts
+1160	U+1F5BC	🖼	🖼	—	—	—	—	framed picture
+1161	U+1F3A8	🎨	🎨	🎨	🎨	🎨	🎨	artist palette
+1162	U+1F9F5	🧵	🧵	—	—	—	—	thread
+1163	U+1FAA1	🪡	🪡	—	—	—	—	sewing needle
+1164	U+1F9F6	🧶	🧶	—	—	—	—	yarn
+1165	U+1FAA2	🪢	🪢	—	—	—	—	knot
+Objects
+clothing
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1166	U+1F453	👓	👓	👓	—	👓	👓	glasses
+1167	U+1F576	🕶	🕶	—	—	—	—	sunglasses
+1168	U+1F97D	🥽	🥽	—	—	—	—	goggles
+1169	U+1F97C	🥼	🥼	—	—	—	—	lab coat
+1170	U+1F9BA	🦺	🦺	—	—	—	—	safety vest
+1171	U+1F454	👔	👔	👔	👔	—	👔	necktie
+1172	U+1F455	👕	👕	👕	👕	👕	👕	t-shirt
+1173	U+1F456	👖	👖	👖	—	👖	👖	jeans
+1174	U+1F9E3	🧣	🧣	—	—	—	—	scarf
+1175	U+1F9E4	🧤	🧤	—	—	—	—	gloves
+1176	U+1F9E5	🧥	🧥	—	—	—	—	coat
+1177	U+1F9E6	🧦	🧦	—	—	—	—	socks
+1178	U+1F457	👗	👗	👗	👗	—	👗	dress
+1179	U+1F458	👘	👘	👘	👘	—	👘	kimono
+1180	U+1F97B	🥻	🥻	—	—	—	—	sari
+1181	U+1FA71	🩱	🩱	—	—	—	—	one-piece swimsuit
+1182	U+1FA72	🩲	🩲	—	—	—	—	briefs
+1183	U+1FA73	🩳	🩳	—	—	—	—	shorts
+1184	U+1F459	👙	👙	👙	👙	—	👙	bikini
+1185	U+1F45A	👚	👚	👚	—	—	👚	woman’s clothes
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1186	U+1FAAD	🪭	🪭	—	—	—	—	folding hand fan
+1187	U+1F45B	👛	👛	👛	—	👛	👛	purse
+1188	U+1F45C	👜	👜	👜	👜	👜	👜	handbag
+1189	U+1F45D	👝	👝	👝	—	👝	—	clutch bag
+1190	U+1F6CD	🛍	🛍	—	—	—	—	shopping bags
+1191	U+1F392	🎒	🎒	🎒	🎒	—	🎒	backpack
+1192	U+1FA74	🩴	🩴	—	—	—	—	thong sandal
+1193	U+1F45E	👞	👞	👞	—	—	👞	man’s shoe
+1194	U+1F45F	👟	👟	👟	👟	👟	👟	running shoe
+1195	U+1F97E	🥾	🥾	—	—	—	—	hiking boot
+1196	U+1F97F	🥿	🥿	—	—	—	—	flat shoe
+1197	U+1F460	👠	👠	👠	👠	👠	👠	high-heeled shoe
+1198	U+1F461	👡	👡	👡	👡	—	—	woman’s sandal
+1199	U+1FA70	🩰	🩰	—	—	—	—	ballet shoes
+1200	U+1F462	👢	👢	👢	👢	—	👢	woman’s boot
+1201	U+1FAAE	🪮	🪮	—	—	—	—	hair pick
+1202	U+1F451	👑	👑	👑	👑	👑	👑	crown
+1203	U+1F452	👒	👒	👒	👒	—	👒	woman’s hat
+1204	U+1F3A9	🎩	🎩	🎩	🎩	🎩	🎩	top hat
+1205	U+1F393	🎓	🎓	🎓	🎓	—	🎓	graduation cap
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1206	U+1F9E2	🧢	🧢	—	—	—	—	billed cap
+1207	U+1FA96	🪖	🪖	—	—	—	—	military helmet
+1208	U+26D1	⛑	⛑	—	—	—	—	rescue worker’s helmet
+1209	U+1F4FF	📿	📿	—	—	—	—	prayer beads
+1210	U+1F484	💄	💄	💄	💄	💄	💄	lipstick
+1211	U+1F48D	💍	💍	💍	💍	💍	💍	ring
+1212	U+1F48E	💎	💎	💎	💎	—	—	gem stone
+sound
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1213	U+1F507	🔇	🔇	—	—	—	—	muted speaker
+1214	U+1F508	🔈	🔈	—	—	—	—	speaker low volume
+1215	U+1F509	🔉	🔉	—	—	—	—	speaker medium volume
+1216	U+1F50A	🔊	🔊	🔊	🔊	—	🔊	speaker high volume
+1217	U+1F4E2	📢	📢	📢	📢	—	—	loudspeaker
+1218	U+1F4E3	📣	📣	📣	📣	—	—	megaphone
+1219	U+1F4EF	📯	📯	—	—	—	—	postal horn
+1220	U+1F514	🔔	🔔	🔔	🔔	🔔	🔔	bell
+1221	U+1F515	🔕	🔕	—	—	—	—	bell with slash
+music
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1222	U+1F3BC	🎼	🎼	🎼	—	—	🎼	musical score
+1223	U+1F3B5	🎵	🎵	🎵	🎵	🎵	🎵	musical note
+1224	U+1F3B6	🎶	🎶	🎶	🎶	🎶	🎶	musical notes
+1225	U+1F399	🎙	🎙	—	—	—	—	studio microphone
+1226	U+1F39A	🎚	🎚	—	—	—	—	level slider
+1227	U+1F39B	🎛	🎛	—	—	—	—	control knobs
+1228	U+1F3A4	🎤	🎤	🎤	🎤	🎤	🎤	microphone
+1229	U+1F3A7	🎧	🎧	🎧	🎧	🎧	🎧	headphone
+1230	U+1F4FB	📻	📻	📻	📻	—	📻	radio
+musical-instrument
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1231	U+1F3B7	🎷	🎷	🎷	🎷	—	—	saxophone
+1232	U+1F3BA	🎺	🎺	🎺	🎺	—	🎺	trumpet
+1233	U+1FA8A	🪊	🪊	—	—	—	—	trombone
+1234	U+1FA97	🪗	🪗	—	—	—	—	accordion
+1235	U+1F3B8	🎸	🎸	🎸	🎸	—	🎸	guitar
+1236	U+1F3B9	🎹	🎹	🎹	—	—	🎹	musical keyboard
+1237	U+1F3BB	🎻	🎻	🎻	—	—	🎻	violin
+1238	U+1FA95	🪕	🪕	—	—	—	—	banjo
+1239	U+1F941	🥁	🥁	—	—	—	—	drum
+1240	U+1FA98	🪘	🪘	—	—	—	—	long drum
+1241	U+1FA87	🪇	🪇	—	—	—	—	maracas
+1242	U+1FA88	🪈	🪈	—	—	—	—	flute
+1243	U+1FA89	🪉	🪉	—	—	—	—	harp
+phone
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1244	U+1F4F1	📱	📱	📱	📱	📱	📱	mobile phone
+1245	U+1F4F2	📲	📲	📲	📲	📲	📲	mobile phone with arrow
+1246	U+260E	☎	☎	☎	☎	☎	☎	telephone
+1247	U+1F4DE	📞	📞	📞	—	—	📞	telephone receiver
+1248	U+1F4DF	📟	📟	📟	—	📟	📟	pager
+1249	U+1F4E0	📠	📠	📠	📠	📠	📠	fax machine
+computer
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1250	U+1F50B	🔋	🔋	🔋	—	—	🔋	battery
+1251	U+1FAAB	🪫	🪫	—	—	—	—	low battery
+1252	U+1F50C	🔌	🔌	🔌	—	—	🔌	electric plug
+1253	U+1F4BB	💻	💻	💻	💻	💻	💻	laptop
+1254	U+1F5A5	🖥	🖥	—	—	—	—	desktop computer
+1255	U+1F5A8	🖨	🖨	—	—	—	—	printer
+1256	U+2328	⌨	⌨	—	—	—	—	keyboard
+1257	U+1F5B1	🖱	🖱	—	—	—	—	computer mouse
+1258	U+1F5B2	🖲	🖲	—	—	—	—	trackball
+1259	U+1F4BD	💽	💽	💽	💽	—	💽	computer disk
+1260	U+1F4BE	💾	💾	💾	—	—	💾	floppy disk
+1261	U+1F4BF	💿	💿	💿	💿	💿	💿	optical disk
+1262	U+1F4C0	📀	📀	📀	📀	—	—	dvd
+1263	U+1F9EE	🧮	🧮	—	—	—	—	abacus
+light & video
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1264	U+1F3A5	🎥	🎥	🎥	🎥	🎥	🎥	movie camera
+1265	U+1F39E	🎞	🎞	—	—	—	—	film frames
+1266	U+1F4FD	📽	📽	—	—	—	—	film projector
+1267	U+1F3AC	🎬	🎬	🎬	🎬	🎬	🎬	clapper board
+1268	U+1F4FA	📺	📺	📺	📺	📺	📺	television
+1269	U+1F4F7	📷	📷	📷	📷	📷	📷	camera
+1270	U+1F4F8	📸	📸	—	—	—	—	camera with flash
+1271	U+1F4F9	📹	📹	📹	—	—	📹	video camera
+1272	U+1F4FC	📼	📼	📼	📼	—	📼	videocassette
+1273	U+1F50D	🔍	🔍	🔍	🔍	🔍	🔍	magnifying glass tilted left
+1274	U+1F50E	🔎	🔎	🔎	—	—	🔎	magnifying glass tilted right
+1275	U+1F56F	🕯	🕯	—	—	—	—	candle
+1276	U+1F4A1	💡	💡	💡	💡	💡	💡	light bulb
+1277	U+1F526	🔦	🔦	🔦	—	—	🔦	flashlight
+1278	U+1F3EE	🏮	🏮	🏮	—	—	🏮	red paper lantern
+1279	U+1FA94	🪔	🪔	—	—	—	—	diya lamp
+book-paper
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1280	U+1F4D4	📔	📔	📔	—	—	📔	notebook with decorative cover
+1281	U+1F4D5	📕	📕	📕	—	—	📕	closed book
+1282	U+1F4D6	📖	📖	📖	📖	📖	📖	open book
+1283	U+1F4D7	📗	📗	📗	—	—	📗	green book
+1284	U+1F4D8	📘	📘	📘	—	—	📘	blue book
+1285	U+1F4D9	📙	📙	📙	—	—	📙	orange book
+1286	U+1F4DA	📚	📚	📚	—	—	📚	books
+1287	U+1F4D3	📓	📓	📓	—	—	📓	notebook
+1288	U+1F4D2	📒	📒	📒	—	—	📒	ledger
+1289	U+1F4C3	📃	📃	📃	—	—	📃	page with curl
+1290	U+1F4DC	📜	📜	📜	—	—	📜	scroll
+1291	U+1F4C4	📄	📄	📄	—	—	📄	page facing up
+1292	U+1F4F0	📰	📰	📰	—	—	📰	newspaper
+1293	U+1F5DE	🗞	🗞	—	—	—	—	rolled-up newspaper
+1294	U+1F4D1	📑	📑	📑	—	—	📑	bookmark tabs
+1295	U+1F516	🔖	🔖	🔖	—	—	🔖	bookmark
+1296	U+1F3F7	🏷	🏷	—	—	—	—	label
+money
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1297	U+1FA99	🪙	🪙	—	—	—	—	coin
+1298	U+1F4B0	💰	💰	💰	💰	💰	💰	money bag
+1299	U+1FA8E	🪎	🪎	—	—	—	—	treasure chest
+1300	U+1F4B4	💴	💴	💴	—	💴	💴	yen banknote
+1301	U+1F4B5	💵	💵	💵	—	—	💵	dollar banknote
+1302	U+1F4B6	💶	💶	—	—	—	—	euro banknote
+1303	U+1F4B7	💷	💷	—	—	—	—	pound banknote
+1304	U+1F4B8	💸	💸	💸	—	—	💸	money with wings
+1305	U+1F4B3	💳	💳	💳	—	—	💳	credit card
+1306	U+1F9FE	🧾	🧾	—	—	—	—	receipt
+1307	U+1F4B9	💹	💹	💹	💹	—	💹	chart increasing with yen
+mail
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1308	U+2709	✉	✉	✉	—	✉	✉	envelope
+1309	U+1F4E7	📧	📧	📧	—	—	📧	e-mail
+1310	U+1F4E8	📨	📨	📨	—	—	📨	incoming envelope
+1311	U+1F4E9	📩	📩	📩	📩	📩	📩	envelope with arrow
+1312	U+1F4E4	📤	📤	📤	—	—	📤	outbox tray
+1313	U+1F4E5	📥	📥	📥	—	—	📥	inbox tray
+1314	U+1F4E6	📦	📦	📦	—	—	📦	package
+1315	U+1F4EB	📫	📫	📫	📫	—	📫	closed mailbox with raised flag
+1316	U+1F4EA	📪	📪	📪	—	—	📪	closed mailbox with lowered flag
+1317	U+1F4EC	📬	📬	—	—	—	—	open mailbox with raised flag
+1318	U+1F4ED	📭	📭	—	—	—	—	open mailbox with lowered flag
+1319	U+1F4EE	📮	📮	📮	📮	—	—	postbox
+1320	U+1F5F3	🗳	🗳	—	—	—	—	ballot box with ballot
+writing
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1321	U+270F	✏	✏	✏	—	✏	✏	pencil
+1322	U+2712	✒	✒	✒	—	✒	✒	black nib
+1323	U+1F58B	🖋	🖋	—	—	—	—	fountain pen
+1324	U+1F58A	🖊	🖊	—	—	—	—	pen
+1325	U+1F58C	🖌	🖌	—	—	—	—	paintbrush
+1326	U+1F58D	🖍	🖍	—	—	—	—	crayon
+1327	U+1F4DD	📝	📝	📝	📝	📝	📝	memo
+1328	U+1FA8C	🪌	🪌	—	—	—	—	⊛ eraser
+office
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1329	U+1F4BC	💼	💼	💼	💼	—	💼	briefcase
+1330	U+1F4C1	📁	📁	📁	—	—	📁	file folder
+1331	U+1F4C2	📂	📂	📂	—	—	📂	open file folder
+1332	U+1F5C2	🗂	🗂	—	—	—	—	card index dividers
+1333	U+1F4C5	📅	📅	📅	—	—	📅	calendar
+1334	U+1F4C6	📆	📆	📆	—	—	📆	tear-off calendar
+1335	U+1F5D2	🗒	🗒	—	—	—	—	spiral notepad
+1336	U+1F5D3	🗓	🗓	—	—	—	—	spiral calendar
+1337	U+1F4C7	📇	📇	📇	—	—	📇	card index
+1338	U+1F4C8	📈	📈	📈	—	—	📈	chart increasing
+1339	U+1F4C9	📉	📉	📉	—	—	📉	chart decreasing
+1340	U+1F4CA	📊	📊	📊	—	—	📊	bar chart
+1341	U+1F4CB	📋	📋	📋	—	—	📋	clipboard
+1342	U+1F4CC	📌	📌	📌	—	—	📌	pushpin
+1343	U+1F4CD	📍	📍	📍	—	—	📍	round pushpin
+1344	U+1F4CE	📎	📎	📎	—	📎	📎	paperclip
+1345	U+1F587	🖇	🖇	—	—	—	—	linked paperclips
+1346	U+1F4CF	📏	📏	📏	—	—	📏	straight ruler
+1347	U+1F4D0	📐	📐	📐	—	—	📐	triangular ruler
+1348	U+2702	✂	✂	✂	✂	✂	✂	scissors
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1349	U+1F5C3	🗃	🗃	—	—	—	—	card file box
+1350	U+1F5C4	🗄	🗄	—	—	—	—	file cabinet
+1351	U+1F5D1	🗑	🗑	—	—	—	—	wastebasket
+lock
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1352	U+1F512	🔒	🔒	🔒	🔒	—	🔒	locked
+1353	U+1F513	🔓	🔓	🔓	🔓	—	—	unlocked
+1354	U+1F50F	🔏	🔏	🔏	—	—	🔏	locked with pen
+1355	U+1F510	🔐	🔐	🔐	—	—	🔐	locked with key
+1356	U+1F511	🔑	🔑	🔑	🔑	🔑	🔑	key
+1357	U+1F5DD	🗝	🗝	—	—	—	—	old key
+tool
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1358	U+1FA8D	🪍	🪍	—	—	—	—	⊛ net with handle
+1359	U+1F528	🔨	🔨	🔨	🔨	—	🔨	hammer
+1360	U+1FA93	🪓	🪓	—	—	—	—	axe
+1361	U+26CF	⛏	⛏	—	—	—	—	pick
+1362	U+2692	⚒	⚒	—	—	—	—	hammer and pick
+1363	U+1F6E0	🛠	🛠	—	—	—	—	hammer and wrench
+1364	U+1F5E1	🗡	🗡	—	—	—	—	dagger
+1365	U+2694	⚔	⚔	—	—	—	—	crossed swords
+1366	U+1F4A3	💣	💣	💣	💣	💣	💣	bomb
+1367	U+1FA83	🪃	🪃	—	—	—	—	boomerang
+1368	U+1F3F9	🏹	🏹	—	—	—	—	bow and arrow
+1369	U+1F6E1	🛡	🛡	—	—	—	—	shield
+1370	U+1FA9A	🪚	🪚	—	—	—	—	carpentry saw
+1371	U+1F527	🔧	🔧	🔧	—	🔧	🔧	wrench
+1372	U+1FA9B	🪛	🪛	—	—	—	—	screwdriver
+1373	U+1F529	🔩	🔩	🔩	—	—	🔩	nut and bolt
+1374	U+2699	⚙	⚙	—	—	—	—	gear
+1375	U+1F5DC	🗜	🗜	—	—	—	—	clamp
+1376	U+2696	⚖	⚖	—	—	—	—	balance scale
+1377	U+1F9AF	🦯	🦯	—	—	—	—	white cane
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1378	U+1F517	🔗	🔗	🔗	—	—	🔗	link
+1379	U+26D3 U+FE0F U+200D U+1F4A5	⛓️‍💥	⛓️‍💥	—	—	—	—	broken chain
+1380	U+26D3	⛓	⛓	—	—	—	—	chains
+1381	U+1FA9D	🪝	🪝	—	—	—	—	hook
+1382	U+1F9F0	🧰	🧰	—	—	—	—	toolbox
+1383	U+1F9F2	🧲	🧲	—	—	—	—	magnet
+1384	U+1FA9C	🪜	🪜	—	—	—	—	ladder
+1385	U+1FA8F	🪏	🪏	—	—	—	—	shovel
+science
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1386	U+2697	⚗	⚗	—	—	—	—	alembic
+1387	U+1F9EA	🧪	🧪	—	—	—	—	test tube
+1388	U+1F9EB	🧫	🧫	—	—	—	—	petri dish
+1389	U+1F9EC	🧬	🧬	—	—	—	—	dna
+1390	U+1F52C	🔬	🔬	—	—	—	—	microscope
+1391	U+1F52D	🔭	🔭	—	—	—	—	telescope
+1392	U+1F4E1	📡	📡	📡	📡	—	📡	satellite antenna
+medical
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1393	U+1F489	💉	💉	💉	💉	—	💉	syringe
+1394	U+1FA78	🩸	🩸	—	—	—	—	drop of blood
+1395	U+1F48A	💊	💊	💊	💊	—	💊	pill
+1396	U+1FA79	🩹	🩹	—	—	—	—	adhesive bandage
+1397	U+1FA7C	🩼	🩼	—	—	—	—	crutch
+1398	U+1FA7A	🩺	🩺	—	—	—	—	stethoscope
+1399	U+1FA7B	🩻	🩻	—	—	—	—	x-ray
+household
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1400	U+1F6AA	🚪	🚪	🚪	—	🚪	—	door
+1401	U+1F6D7	🛗	🛗	—	—	—	—	elevator
+1402	U+1FA9E	🪞	🪞	—	—	—	—	mirror
+1403	U+1FA9F	🪟	🪟	—	—	—	—	window
+1404	U+1F6CF	🛏	🛏	—	—	—	—	bed
+1405	U+1F6CB	🛋	🛋	—	—	—	—	couch and lamp
+1406	U+1FA91	🪑	🪑	—	—	—	—	chair
+1407	U+1F6BD	🚽	🚽	🚽	🚽	—	—	toilet
+1408	U+1FAA0	🪠	🪠	—	—	—	—	plunger
+1409	U+1F6BF	🚿	🚿	—	—	—	—	shower
+1410	U+1F6C1	🛁	🛁	—	—	—	—	bathtub
+1411	U+1FAA4	🪤	🪤	—	—	—	—	mouse trap
+1412	U+1FA92	🪒	🪒	—	—	—	—	razor
+1413	U+1F9F4	🧴	🧴	—	—	—	—	lotion bottle
+1414	U+1F9F7	🧷	🧷	—	—	—	—	safety pin
+1415	U+1F9F9	🧹	🧹	—	—	—	—	broom
+1416	U+1F9FA	🧺	🧺	—	—	—	—	basket
+1417	U+1F9FB	🧻	🧻	—	—	—	—	roll of paper
+1418	U+1FAA3	🪣	🪣	—	—	—	—	bucket
+1419	U+1F9FC	🧼	🧼	—	—	—	—	soap
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1420	U+1FAE7	🫧	🫧	—	—	—	—	bubbles
+1421	U+1FAA5	🪥	🪥	—	—	—	—	toothbrush
+1422	U+1F9FD	🧽	🧽	—	—	—	—	sponge
+1423	U+1F9EF	🧯	🧯	—	—	—	—	fire extinguisher
+1424	U+1F6D2	🛒	🛒	—	—	—	—	shopping cart
+other-object
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1425	U+1F6AC	🚬	🚬	🚬	🚬	🚬	🚬	cigarette
+1426	U+26B0	⚰	⚰	—	—	—	—	coffin
+1427	U+1FAA6	🪦	🪦	—	—	—	—	headstone
+1428	U+26B1	⚱	⚱	—	—	—	—	funeral urn
+1429	U+1F9FF	🧿	🧿	—	—	—	—	nazar amulet
+1430	U+1FAAC	🪬	🪬	—	—	—	—	hamsa
+1431	U+1F5FF	🗿	🗿	🗿	—	—	🗿	moai
+1432	U+1FAA7	🪧	🪧	—	—	—	—	placard
+1433	U+1FAAA	🪪	🪪	—	—	—	—	identification card
+Symbols
+transport-sign
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1434	U+1F3E7	🏧	🏧	🏧	🏧	🏧	🏧	ATM sign
+1435	U+1F6AE	🚮	🚮	—	—	—	—	litter in bin sign
+1436	U+1F6B0	🚰	🚰	—	—	—	—	potable water
+1437	U+267F	♿	♿	♿	♿	♿	♿	wheelchair symbol
+1438	U+1F6B9	🚹	🚹	🚹	🚹	—	—	men’s room
+1439	U+1F6BA	🚺	🚺	🚺	🚺	—	—	women’s room
+1440	U+1F6BB	🚻	🚻	🚻	🚻	🚻	🚻	restroom
+1441	U+1F6BC	🚼	🚼	🚼	🚼	—	—	baby symbol
+1442	U+1F6BE	🚾	🚾	🚾	🚾	—	—	water closet
+1443	U+1F6C2	🛂	🛂	—	—	—	—	passport control
+1444	U+1F6C3	🛃	🛃	—	—	—	—	customs
+1445	U+1F6C4	🛄	🛄	—	—	—	—	baggage claim
+1446	U+1F6C5	🛅	🛅	—	—	—	—	left luggage
+warning
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1447	U+26A0	⚠	⚠	⚠	⚠	⚠	⚠	warning
+1448	U+1F6B8	🚸	🚸	—	—	—	—	children crossing
+1449	U+26D4	⛔	⛔	⛔	—	—	⛔	no entry
+1450	U+1F6AB	🚫	🚫	🚫	—	—	🚫	prohibited
+1451	U+1F6B3	🚳	🚳	—	—	—	—	no bicycles
+1452	U+1F6AD	🚭	🚭	🚭	🚭	🚭	🚭	no smoking
+1453	U+1F6AF	🚯	🚯	—	—	—	—	no littering
+1454	U+1F6B1	🚱	🚱	—	—	—	—	non-potable water
+1455	U+1F6B7	🚷	🚷	—	—	—	—	no pedestrians
+1456	U+1F4F5	📵	📵	—	—	—	—	no mobile phones
+1457	U+1F51E	🔞	🔞	🔞	🔞	—	🔞	no one under eighteen
+1458	U+2622	☢	☢	—	—	—	—	radioactive
+1459	U+2623	☣	☣	—	—	—	—	biohazard
+arrow
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1460	U+2B06	⬆	⬆	—	⬆	—	⬆	up arrow
+1461	U+2197	↗	↗	↗	↗	↗	↗	up-right arrow
+1462	U+27A1	➡	➡	—	➡	—	➡	right arrow
+1463	U+2198	↘	↘	↘	↘	↘	↘	down-right arrow
+1464	U+2B07	⬇	⬇	—	⬇	—	⬇	down arrow
+1465	U+2199	↙	↙	↙	↙	↙	↙	down-left arrow
+1466	U+2B05	⬅	⬅	—	⬅	—	⬅	left arrow
+1467	U+2196	↖	↖	↖	↖	↖	↖	up-left arrow
+1468	U+2195	↕	↕	↕	—	↕	↕	up-down arrow
+1469	U+2194	↔	↔	↔	—	↔	↔	left-right arrow
+1470	U+21A9	↩	↩	—	—	↩	↩	right arrow curving left
+1471	U+21AA	↪	↪	↪	—	—	↪	left arrow curving right
+1472	U+2934	⤴	⤴	⤴	—	⤴	⤴	right arrow curving up
+1473	U+2935	⤵	⤵	⤵	—	⤵	⤵	right arrow curving down
+1474	U+1F503	🔃	🔃	🔃	—	—	🔃	clockwise vertical arrows
+1475	U+1F504	🔄	🔄	—	—	—	—	counterclockwise arrows button
+1476	U+1F519	🔙	🔙	🔙	—	—	🔙	BACK arrow
+1477	U+1F51A	🔚	🔚	🔚	—	🔚	—	END arrow
+1478	U+1F51B	🔛	🔛	🔛	—	🔛	—	ON! arrow
+1479	U+1F51C	🔜	🔜	🔜	—	🔜	—	SOON arrow
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1480	U+1F51D	🔝	🔝	🔝	🔝	—	—	TOP arrow
+religion
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1481	U+1F6D0	🛐	🛐	—	—	—	—	place of worship
+1482	U+269B	⚛	⚛	—	—	—	—	atom symbol
+1483	U+1F549	🕉	🕉	—	—	—	—	om
+1484	U+2721	✡	✡	—	—	—	—	star of David
+1485	U+2638	☸	☸	—	—	—	—	wheel of dharma
+1486	U+262F	☯	☯	—	—	—	—	yin yang
+1487	U+271D	✝	✝	—	—	—	—	latin cross
+1488	U+2626	☦	☦	—	—	—	—	orthodox cross
+1489	U+262A	☪	☪	—	—	—	—	star and crescent
+1490	U+262E	☮	☮	—	—	—	—	peace symbol
+1491	U+1F54E	🕎	🕎	—	—	—	—	menorah
+1492	U+1F52F	🔯	🔯	🔯	🔯	—	—	dotted six-pointed star
+1493	U+1FAAF	🪯	🪯	—	—	—	—	khanda
+zodiac
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1494	U+2648	♈	♈	♈	♈	♈	♈	Aries
+1495	U+2649	♉	♉	♉	♉	♉	♉	Taurus
+1496	U+264A	♊	♊	♊	♊	♊	♊	Gemini
+1497	U+264B	♋	♋	♋	♋	♋	♋	Cancer
+1498	U+264C	♌	♌	♌	♌	♌	♌	Leo
+1499	U+264D	♍	♍	♍	♍	♍	♍	Virgo
+1500	U+264E	♎	♎	♎	♎	♎	♎	Libra
+1501	U+264F	♏	♏	♏	♏	♏	♏	Scorpio
+1502	U+2650	♐	♐	♐	♐	♐	♐	Sagittarius
+1503	U+2651	♑	♑	♑	♑	♑	♑	Capricorn
+1504	U+2652	♒	♒	♒	♒	♒	♒	Aquarius
+1505	U+2653	♓	♓	♓	♓	♓	♓	Pisces
+1506	U+26CE	⛎	⛎	⛎	⛎	—	⛎	Ophiuchus
+av-symbol
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1507	U+1F500	🔀	🔀	—	—	—	—	shuffle tracks button
+1508	U+1F501	🔁	🔁	—	—	—	—	repeat button
+1509	U+1F502	🔂	🔂	—	—	—	—	repeat single button
+1510	U+25B6	▶	▶	▶	▶	—	▶	play button
+1511	U+23E9	⏩	⏩	⏩	⏩	—	⏩	fast-forward button
+1512	U+23ED	⏭	⏭	—	—	—	—	next track button
+1513	U+23EF	⏯	⏯	—	—	—	—	play or pause button
+1514	U+25C0	◀	◀	◀	◀	—	◀	reverse button
+1515	U+23EA	⏪	⏪	⏪	⏪	—	⏪	fast reverse button
+1516	U+23EE	⏮	⏮	—	—	—	—	last track button
+1517	U+1F53C	🔼	🔼	🔼	—	—	🔼	upwards button
+1518	U+23EB	⏫	⏫	⏫	—	—	⏫	fast up button
+1519	U+1F53D	🔽	🔽	🔽	—	—	🔽	downwards button
+1520	U+23EC	⏬	⏬	⏬	—	—	⏬	fast down button
+1521	U+23F8	⏸	⏸	—	—	—	—	pause button
+1522	U+23F9	⏹	⏹	—	—	—	—	stop button
+1523	U+23FA	⏺	⏺	—	—	—	—	record button
+1524	U+23CF	⏏	⏏	—	—	—	—	eject button
+1525	U+1F3A6	🎦	🎦	🎦	🎦	—	—	cinema
+1526	U+1F505	🔅	🔅	—	—	—	—	dim button
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1527	U+1F506	🔆	🔆	—	—	—	—	bright button
+1528	U+1F4F6	📶	📶	📶	📶	—	📶	antenna bars
+1529	U+1F6DC	🛜	🛜	—	—	—	—	wireless
+1530	U+1F4F3	📳	📳	📳	📳	—	📳	vibration mode
+1531	U+1F4F4	📴	📴	📴	📴	—	📴	mobile phone off
+gender
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1532	U+2640	♀	♀	—	—	—	—	female sign
+1533	U+2642	♂	♂	—	—	—	—	male sign
+1534	U+26A7	⚧	⚧	—	—	—	—	transgender symbol
+math
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1535	U+2716	✖	✖	—	—	—	✖	multiply
+1536	U+2795	➕	➕	➕	—	—	➕	plus
+1537	U+2796	➖	➖	➖	—	—	➖	minus
+1538	U+2797	➗	➗	➗	—	—	➗	divide
+1539	U+1F7F0	🟰	🟰	—	—	—	—	heavy equals sign
+1540	U+267E	♾	♾	—	—	—	—	infinity
+punctuation
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1541	U+203C	‼	‼	‼	—	‼	‼	double exclamation mark
+1542	U+2049	⁉	⁉	⁉	—	⁉	⁉	exclamation question mark
+1543	U+2753	❓	❓	❓	❓	—	❓	red question mark
+1544	U+2754	❔	❔	❔	❔	—	—	white question mark
+1545	U+2755	❕	❕	❕	❕	—	—	white exclamation mark
+1546	U+2757	❗	❗	❗	❗	❗	❗	red exclamation mark
+1547	U+3030	〰	〰	〰	—	〰	—	wavy dash
+currency
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1548	U+1F4B1	💱	💱	💱	💱	—	—	currency exchange
+1549	U+1F4B2	💲	💲	💲	—	—	💲	heavy dollar sign
+other-symbol
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1550	U+2695	⚕	⚕	—	—	—	—	medical symbol
+1551	U+267B	♻	♻	♻	—	♻	♻	recycling symbol
+1552	U+269C	⚜	⚜	—	—	—	—	fleur-de-lis
+1553	U+1F531	🔱	🔱	🔱	🔱	—	—	trident emblem
+1554	U+1F4DB	📛	📛	📛	—	—	📛	name badge
+1555	U+1F530	🔰	🔰	🔰	🔰	—	🔰	Japanese symbol for beginner
+1556	U+2B55	⭕	⭕	⭕	⭕	—	⭕	hollow red circle
+1557	U+2705	✅	✅	✅	—	—	✅	check mark button
+1558	U+2611	☑	☑	☑	—	—	☑	check box with check
+1559	U+2714	✔	✔	—	—	—	✔	check mark
+1560	U+274C	❌	❌	❌	❌	—	❌	cross mark
+1561	U+274E	❎	❎	❎	—	—	❎	cross mark button
+1562	U+27B0	➰	➰	➰	—	➰	➰	curly loop
+1563	U+27BF	➿	➿	➿	—	—	—	double curly loop
+1564	U+303D	〽	〽	〽	〽	—	—	part alternation mark
+1565	U+2733	✳	✳	✳	✳	—	✳	eight-spoked asterisk
+1566	U+2734	✴	✴	—	✴	—	✴	eight-pointed star
+1567	U+2747	❇	❇	❇	—	—	❇	sparkle
+1568	U+00A9	©	©	©	©	©	©	copyright
+1569	U+00AE	®	®	®	®	®	®	registered
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1570	U+2122	™	™	™	™	™	™	trade mark
+1571	U+1FADF	🫟	🫟	—	—	—	—	splatter
+keycap
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1572	U+0023 U+FE0F U+20E3	#️⃣	#️⃣	#️⃣	#️⃣	#️⃣	#️⃣	keycap: #
+1573	U+002A U+FE0F U+20E3	*️⃣	*️⃣	—	—	—	—	keycap: *
+1574	U+0030 U+FE0F U+20E3	0️⃣	0️⃣	0️⃣	0️⃣	0️⃣	0️⃣	keycap: 0
+1575	U+0031 U+FE0F U+20E3	1️⃣	1️⃣	1️⃣	1️⃣	1️⃣	1️⃣	keycap: 1
+1576	U+0032 U+FE0F U+20E3	2️⃣	2️⃣	2️⃣	2️⃣	2️⃣	2️⃣	keycap: 2
+1577	U+0033 U+FE0F U+20E3	3️⃣	3️⃣	3️⃣	3️⃣	3️⃣	3️⃣	keycap: 3
+1578	U+0034 U+FE0F U+20E3	4️⃣	4️⃣	4️⃣	4️⃣	4️⃣	4️⃣	keycap: 4
+1579	U+0035 U+FE0F U+20E3	5️⃣	5️⃣	5️⃣	5️⃣	5️⃣	5️⃣	keycap: 5
+1580	U+0036 U+FE0F U+20E3	6️⃣	6️⃣	6️⃣	6️⃣	6️⃣	6️⃣	keycap: 6
+1581	U+0037 U+FE0F U+20E3	7️⃣	7️⃣	7️⃣	7️⃣	7️⃣	7️⃣	keycap: 7
+1582	U+0038 U+FE0F U+20E3	8️⃣	8️⃣	8️⃣	8️⃣	8️⃣	8️⃣	keycap: 8
+1583	U+0039 U+FE0F U+20E3	9️⃣	9️⃣	9️⃣	9️⃣	9️⃣	9️⃣	keycap: 9
+1584	U+1F51F	🔟	🔟	🔟	—	—	🔟	keycap: 10
+alphanum
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1585	U+1F520	🔠	🔠	🔠	—	—	🔠	input latin uppercase
+1586	U+1F521	🔡	🔡	🔡	—	—	🔡	input latin lowercase
+1587	U+1F522	🔢	🔢	🔢	—	—	🔢	input numbers
+1588	U+1F523	🔣	🔣	🔣	—	—	🔣	input symbols
+1589	U+1F524	🔤	🔤	🔤	—	—	🔤	input latin letters
+1590	U+1F170	🅰	🅰	🅰	🅰	—	🅰	A button (blood type)
+1591	U+1F18E	🆎	🆎	🆎	🆎	—	🆎	AB button (blood type)
+1592	U+1F171	🅱	🅱	🅱	🅱	—	🅱	B button (blood type)
+1593	U+1F191	🆑	🆑	🆑	—	🆑	🆑	CL button
+1594	U+1F192	🆒	🆒	🆒	🆒	—	🆒	COOL button
+1595	U+1F193	🆓	🆓	🆓	—	🆓	🆓	FREE button
+1596	U+2139	ℹ	ℹ	ℹ	—	—	ℹ	information
+1597	U+1F194	🆔	🆔	🆔	🆔	🆔	🆔	ID button
+1598	U+24C2	Ⓜ	Ⓜ	Ⓜ	—	Ⓜ	—	circled M
+1599	U+1F195	🆕	🆕	🆕	🆕	🆕	🆕	NEW button
+1600	U+1F196	🆖	🆖	🆖	—	🆖	—	NG button
+1601	U+1F17E	🅾	🅾	🅾	🅾	—	🅾	O button (blood type)
+1602	U+1F197	🆗	🆗	🆗	🆗	🆗	🆗	OK button
+1603	U+1F17F	🅿	🅿	🅿	🅿	🅿	🅿	P button
+1604	U+1F198	🆘	🆘	🆘	—	—	🆘	SOS button
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1605	U+1F199	🆙	🆙	🆙	🆙	—	🆙	UP! button
+1606	U+1F19A	🆚	🆚	🆚	🆚	—	🆚	VS button
+1607	U+1F201	🈁	🈁	🈁	🈁	—	—	Japanese “here” button
+1608	U+1F202	🈂	🈂	🈂	🈂	—	🈂	Japanese “service charge” button
+1609	U+1F237	🈷	🈷	🈷	🈷	—	—	Japanese “monthly amount” button
+1610	U+1F236	🈶	🈶	🈶	🈶	—	—	Japanese “not free of charge” button
+1611	U+1F22F	🈯	🈯	🈯	🈯	—	🈯	Japanese “reserved” button
+1612	U+1F250	🉐	🉐	🉐	🉐	—	🉐	Japanese “bargain” button
+1613	U+1F239	🈹	🈹	🈹	🈹	—	🈹	Japanese “discount” button
+1614	U+1F21A	🈚	🈚	🈚	🈚	—	—	Japanese “free of charge” button
+1615	U+1F232	🈲	🈲	🈲	—	🈲	—	Japanese “prohibited” button
+1616	U+1F251	🉑	🉑	🉑	—	—	🉑	Japanese “acceptable” button
+1617	U+1F238	🈸	🈸	🈸	🈸	—	—	Japanese “application” button
+1618	U+1F234	🈴	🈴	🈴	—	🈴	—	Japanese “passing grade” button
+1619	U+1F233	🈳	🈳	🈳	🈳	🈳	🈳	Japanese “vacancy” button
+1620	U+3297	㊗	㊗	㊗	㊗	—	㊗	Japanese “congratulations” button
+1621	U+3299	㊙	㊙	㊙	㊙	㊙	㊙	Japanese “secret” button
+1622	U+1F23A	🈺	🈺	🈺	🈺	—	🈺	Japanese “open for business” button
+1623	U+1F235	🈵	🈵	🈵	🈵	🈵	🈵	Japanese “no vacancy” button
+geometric
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1624	U+1F534	🔴	🔴	🔴	🔴	—	🔴	red circle
+1625	U+1F7E0	🟠	🟠	—	—	—	—	orange circle
+1626	U+1F7E1	🟡	🟡	—	—	—	—	yellow circle
+1627	U+1F7E2	🟢	🟢	—	—	—	—	green circle
+1628	U+1F535	🔵	🔵	🔵	—	—	🔵	blue circle
+1629	U+1F7E3	🟣	🟣	—	—	—	—	purple circle
+1630	U+1F7E4	🟤	🟤	—	—	—	—	brown circle
+1631	U+26AB	⚫	⚫	⚫	—	—	⚫	black circle
+1632	U+26AA	⚪	⚪	⚪	—	—	⚪	white circle
+1633	U+1F7E5	🟥	🟥	—	—	—	—	red square
+1634	U+1F7E7	🟧	🟧	—	—	—	—	orange square
+1635	U+1F7E8	🟨	🟨	—	—	—	—	yellow square
+1636	U+1F7E9	🟩	🟩	—	—	—	—	green square
+1637	U+1F7E6	🟦	🟦	—	—	—	—	blue square
+1638	U+1F7EA	🟪	🟪	—	—	—	—	purple square
+1639	U+1F7EB	🟫	🟫	—	—	—	—	brown square
+1640	U+2B1B	⬛	⬛	—	—	—	⬛	black large square
+1641	U+2B1C	⬜	⬜	—	—	—	⬜	white large square
+1642	U+25FC	◼	◼	◼	—	—	◼	black medium square
+1643	U+25FB	◻	◻	◻	—	—	◻	white medium square
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1644	U+25FE	◾	◾	◾	—	—	◾	black medium-small square
+1645	U+25FD	◽	◽	◽	—	—	◽	white medium-small square
+1646	U+25AA	▪	▪	▪	—	—	▪	black small square
+1647	U+25AB	▫	▫	▫	—	—	▫	white small square
+1648	U+1F536	🔶	🔶	🔶	—	—	🔶	large orange diamond
+1649	U+1F537	🔷	🔷	🔷	—	—	🔷	large blue diamond
+1650	U+1F538	🔸	🔸	🔸	—	—	🔸	small orange diamond
+1651	U+1F539	🔹	🔹	🔹	—	—	🔹	small blue diamond
+1652	U+1F53A	🔺	🔺	🔺	—	—	🔺	red triangle pointed up
+1653	U+1F53B	🔻	🔻	🔻	—	—	🔻	red triangle pointed down
+1654	U+1F4A0	💠	💠	💠	—	💠	—	diamond with a dot
+1655	U+1F518	🔘	🔘	🔘	—	—	🔘	radio button
+1656	U+1F533	🔳	🔳	🔳	🔳	—	—	white square button
+1657	U+1F532	🔲	🔲	—	🔲	—	—	black square button
+Flags
+flag
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1658	U+1F3C1	🏁	🏁	🏁	🏁	🏁	🏁	chequered flag
+1659	U+1F6A9	🚩	🚩	🚩	—	🚩	🚩	triangular flag
+1660	U+1F38C	🎌	🎌	🎌	🎌	—	🎌	crossed flags
+1661	U+1F3F4	🏴	🏴	—	—	—	—	black flag
+1662	U+1F3F3	🏳	🏳	—	—	—	—	white flag
+1663	U+1F3F3 U+FE0F U+200D U+1F308	🏳️‍🌈	🏳️‍🌈	—	—	—	—	rainbow flag
+1664	U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F	🏳️‍⚧️	🏳️‍⚧️	—	—	—	—	transgender flag
+1665	U+1F3F4 U+200D U+2620 U+FE0F	🏴‍☠️	🏴‍☠️	—	—	—	—	pirate flag
+country-flag
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1666	U+1F1E6 U+1F1E8	🇦🇨	🇦🇨	—	—	—	—	flag: Ascension Island
+1667	U+1F1E6 U+1F1E9	🇦🇩	🇦🇩	—	—	—	—	flag: Andorra
+1668	U+1F1E6 U+1F1EA	🇦🇪	🇦🇪	—	—	—	—	flag: United Arab Emirates
+1669	U+1F1E6 U+1F1EB	🇦🇫	🇦🇫	—	—	—	—	flag: Afghanistan
+1670	U+1F1E6 U+1F1EC	🇦🇬	🇦🇬	—	—	—	—	flag: Antigua & Barbuda
+1671	U+1F1E6 U+1F1EE	🇦🇮	🇦🇮	—	—	—	—	flag: Anguilla
+1672	U+1F1E6 U+1F1F1	🇦🇱	🇦🇱	—	—	—	—	flag: Albania
+1673	U+1F1E6 U+1F1F2	🇦🇲	🇦🇲	—	—	—	—	flag: Armenia
+1674	U+1F1E6 U+1F1F4	🇦🇴	🇦🇴	—	—	—	—	flag: Angola
+1675	U+1F1E6 U+1F1F6	🇦🇶	🇦🇶	—	—	—	—	flag: Antarctica
+1676	U+1F1E6 U+1F1F7	🇦🇷	🇦🇷	—	—	—	—	flag: Argentina
+1677	U+1F1E6 U+1F1F8	🇦🇸	🇦🇸	—	—	—	—	flag: American Samoa
+1678	U+1F1E6 U+1F1F9	🇦🇹	🇦🇹	—	—	—	—	flag: Austria
+1679	U+1F1E6 U+1F1FA	🇦🇺	🇦🇺	—	—	—	—	flag: Australia
+1680	U+1F1E6 U+1F1FC	🇦🇼	🇦🇼	—	—	—	—	flag: Aruba
+1681	U+1F1E6 U+1F1FD	🇦🇽	🇦🇽	—	—	—	—	flag: Åland Islands
+1682	U+1F1E6 U+1F1FF	🇦🇿	🇦🇿	—	—	—	—	flag: Azerbaijan
+1683	U+1F1E7 U+1F1E6	🇧🇦	🇧🇦	—	—	—	—	flag: Bosnia & Herzegovina
+1684	U+1F1E7 U+1F1E7	🇧🇧	🇧🇧	—	—	—	—	flag: Barbados
+1685	U+1F1E7 U+1F1E9	🇧🇩	🇧🇩	—	—	—	—	flag: Bangladesh
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1686	U+1F1E7 U+1F1EA	🇧🇪	🇧🇪	—	—	—	—	flag: Belgium
+1687	U+1F1E7 U+1F1EB	🇧🇫	🇧🇫	—	—	—	—	flag: Burkina Faso
+1688	U+1F1E7 U+1F1EC	🇧🇬	🇧🇬	—	—	—	—	flag: Bulgaria
+1689	U+1F1E7 U+1F1ED	🇧🇭	🇧🇭	—	—	—	—	flag: Bahrain
+1690	U+1F1E7 U+1F1EE	🇧🇮	🇧🇮	—	—	—	—	flag: Burundi
+1691	U+1F1E7 U+1F1EF	🇧🇯	🇧🇯	—	—	—	—	flag: Benin
+1692	U+1F1E7 U+1F1F1	🇧🇱	🇧🇱	—	—	—	—	flag: St. Barthélemy
+1693	U+1F1E7 U+1F1F2	🇧🇲	🇧🇲	—	—	—	—	flag: Bermuda
+1694	U+1F1E7 U+1F1F3	🇧🇳	🇧🇳	—	—	—	—	flag: Brunei
+1695	U+1F1E7 U+1F1F4	🇧🇴	🇧🇴	—	—	—	—	flag: Bolivia
+1696	U+1F1E7 U+1F1F6	🇧🇶	🇧🇶	—	—	—	—	flag: Caribbean Netherlands
+1697	U+1F1E7 U+1F1F7	🇧🇷	🇧🇷	—	—	—	—	flag: Brazil
+1698	U+1F1E7 U+1F1F8	🇧🇸	🇧🇸	—	—	—	—	flag: Bahamas
+1699	U+1F1E7 U+1F1F9	🇧🇹	🇧🇹	—	—	—	—	flag: Bhutan
+1700	U+1F1E7 U+1F1FB	🇧🇻	🇧🇻	—	—	—	—	flag: Bouvet Island
+1701	U+1F1E7 U+1F1FC	🇧🇼	🇧🇼	—	—	—	—	flag: Botswana
+1702	U+1F1E7 U+1F1FE	🇧🇾	🇧🇾	—	—	—	—	flag: Belarus
+1703	U+1F1E7 U+1F1FF	🇧🇿	🇧🇿	—	—	—	—	flag: Belize
+1704	U+1F1E8 U+1F1E6	🇨🇦	🇨🇦	—	—	—	—	flag: Canada
+1705	U+1F1E8 U+1F1E8	🇨🇨	🇨🇨	—	—	—	—	flag: Cocos (Keeling) Islands
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1706	U+1F1E8 U+1F1E9	🇨🇩	🇨🇩	—	—	—	—	flag: Congo - Kinshasa
+1707	U+1F1E8 U+1F1EB	🇨🇫	🇨🇫	—	—	—	—	flag: Central African Republic
+1708	U+1F1E8 U+1F1EC	🇨🇬	🇨🇬	—	—	—	—	flag: Congo - Brazzaville
+1709	U+1F1E8 U+1F1ED	🇨🇭	🇨🇭	—	—	—	—	flag: Switzerland
+1710	U+1F1E8 U+1F1EE	🇨🇮	🇨🇮	—	—	—	—	flag: Côte d’Ivoire
+1711	U+1F1E8 U+1F1F0	🇨🇰	🇨🇰	—	—	—	—	flag: Cook Islands
+1712	U+1F1E8 U+1F1F1	🇨🇱	🇨🇱	—	—	—	—	flag: Chile
+1713	U+1F1E8 U+1F1F2	🇨🇲	🇨🇲	—	—	—	—	flag: Cameroon
+1714	U+1F1E8 U+1F1F3	🇨🇳	🇨🇳	🇨🇳	🇨🇳	—	🇨🇳	flag: China
+1715	U+1F1E8 U+1F1F4	🇨🇴	🇨🇴	—	—	—	—	flag: Colombia
+1716	U+1F1E8 U+1F1F5	🇨🇵	🇨🇵	—	—	—	—	flag: Clipperton Island
+1717	U+1F1E8 U+1F1F6	🇨🇶	… 🇨🇶 …	flag: Sark
+1718	U+1F1E8 U+1F1F7	🇨🇷	🇨🇷	—	—	—	—	flag: Costa Rica
+1719	U+1F1E8 U+1F1FA	🇨🇺	🇨🇺	—	—	—	—	flag: Cuba
+1720	U+1F1E8 U+1F1FB	🇨🇻	🇨🇻	—	—	—	—	flag: Cape Verde
+1721	U+1F1E8 U+1F1FC	🇨🇼	🇨🇼	—	—	—	—	flag: Curaçao
+1722	U+1F1E8 U+1F1FD	🇨🇽	🇨🇽	—	—	—	—	flag: Christmas Island
+1723	U+1F1E8 U+1F1FE	🇨🇾	🇨🇾	—	—	—	—	flag: Cyprus
+1724	U+1F1E8 U+1F1FF	🇨🇿	🇨🇿	—	—	—	—	flag: Czechia
+1725	U+1F1E9 U+1F1EA	🇩🇪	🇩🇪	🇩🇪	🇩🇪	—	🇩🇪	flag: Germany
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1726	U+1F1E9 U+1F1EC	🇩🇬	🇩🇬	—	—	—	—	flag: Diego Garcia
+1727	U+1F1E9 U+1F1EF	🇩🇯	🇩🇯	—	—	—	—	flag: Djibouti
+1728	U+1F1E9 U+1F1F0	🇩🇰	🇩🇰	—	—	—	—	flag: Denmark
+1729	U+1F1E9 U+1F1F2	🇩🇲	🇩🇲	—	—	—	—	flag: Dominica
+1730	U+1F1E9 U+1F1F4	🇩🇴	🇩🇴	—	—	—	—	flag: Dominican Republic
+1731	U+1F1E9 U+1F1FF	🇩🇿	🇩🇿	—	—	—	—	flag: Algeria
+1732	U+1F1EA U+1F1E6	🇪🇦	🇪🇦	—	—	—	—	flag: Ceuta & Melilla
+1733	U+1F1EA U+1F1E8	🇪🇨	🇪🇨	—	—	—	—	flag: Ecuador
+1734	U+1F1EA U+1F1EA	🇪🇪	🇪🇪	—	—	—	—	flag: Estonia
+1735	U+1F1EA U+1F1EC	🇪🇬	🇪🇬	—	—	—	—	flag: Egypt
+1736	U+1F1EA U+1F1ED	🇪🇭	🇪🇭	—	—	—	—	flag: Western Sahara
+1737	U+1F1EA U+1F1F7	🇪🇷	🇪🇷	—	—	—	—	flag: Eritrea
+1738	U+1F1EA U+1F1F8	🇪🇸	🇪🇸	🇪🇸	🇪🇸	—	🇪🇸	flag: Spain
+1739	U+1F1EA U+1F1F9	🇪🇹	🇪🇹	—	—	—	—	flag: Ethiopia
+1740	U+1F1EA U+1F1FA	🇪🇺	🇪🇺	—	—	—	—	flag: European Union
+1741	U+1F1EB U+1F1EE	🇫🇮	🇫🇮	—	—	—	—	flag: Finland
+1742	U+1F1EB U+1F1EF	🇫🇯	🇫🇯	—	—	—	—	flag: Fiji
+1743	U+1F1EB U+1F1F0	🇫🇰	🇫🇰	—	—	—	—	flag: Falkland Islands
+1744	U+1F1EB U+1F1F2	🇫🇲	🇫🇲	—	—	—	—	flag: Micronesia
+1745	U+1F1EB U+1F1F4	🇫🇴	🇫🇴	—	—	—	—	flag: Faroe Islands
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1746	U+1F1EB U+1F1F7	🇫🇷	🇫🇷	🇫🇷	🇫🇷	—	🇫🇷	flag: France
+1747	U+1F1EC U+1F1E6	🇬🇦	🇬🇦	—	—	—	—	flag: Gabon
+1748	U+1F1EC U+1F1E7	🇬🇧	🇬🇧	🇬🇧	🇬🇧	—	🇬🇧	flag: United Kingdom
+1749	U+1F1EC U+1F1E9	🇬🇩	🇬🇩	—	—	—	—	flag: Grenada
+1750	U+1F1EC U+1F1EA	🇬🇪	🇬🇪	—	—	—	—	flag: Georgia
+1751	U+1F1EC U+1F1EB	🇬🇫	🇬🇫	—	—	—	—	flag: French Guiana
+1752	U+1F1EC U+1F1EC	🇬🇬	🇬🇬	—	—	—	—	flag: Guernsey
+1753	U+1F1EC U+1F1ED	🇬🇭	🇬🇭	—	—	—	—	flag: Ghana
+1754	U+1F1EC U+1F1EE	🇬🇮	🇬🇮	—	—	—	—	flag: Gibraltar
+1755	U+1F1EC U+1F1F1	🇬🇱	🇬🇱	—	—	—	—	flag: Greenland
+1756	U+1F1EC U+1F1F2	🇬🇲	🇬🇲	—	—	—	—	flag: Gambia
+1757	U+1F1EC U+1F1F3	🇬🇳	🇬🇳	—	—	—	—	flag: Guinea
+1758	U+1F1EC U+1F1F5	🇬🇵	🇬🇵	—	—	—	—	flag: Guadeloupe
+1759	U+1F1EC U+1F1F6	🇬🇶	🇬🇶	—	—	—	—	flag: Equatorial Guinea
+1760	U+1F1EC U+1F1F7	🇬🇷	🇬🇷	—	—	—	—	flag: Greece
+1761	U+1F1EC U+1F1F8	🇬🇸	🇬🇸	—	—	—	—	flag: South Georgia & South Sandwich Islands
+1762	U+1F1EC U+1F1F9	🇬🇹	🇬🇹	—	—	—	—	flag: Guatemala
+1763	U+1F1EC U+1F1FA	🇬🇺	🇬🇺	—	—	—	—	flag: Guam
+1764	U+1F1EC U+1F1FC	🇬🇼	🇬🇼	—	—	—	—	flag: Guinea-Bissau
+1765	U+1F1EC U+1F1FE	🇬🇾	🇬🇾	—	—	—	—	flag: Guyana
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1766	U+1F1ED U+1F1F0	🇭🇰	🇭🇰	—	—	—	—	flag: Hong Kong SAR China
+1767	U+1F1ED U+1F1F2	🇭🇲	🇭🇲	—	—	—	—	flag: Heard Island & McDonald Islands
+1768	U+1F1ED U+1F1F3	🇭🇳	🇭🇳	—	—	—	—	flag: Honduras
+1769	U+1F1ED U+1F1F7	🇭🇷	🇭🇷	—	—	—	—	flag: Croatia
+1770	U+1F1ED U+1F1F9	🇭🇹	🇭🇹	—	—	—	—	flag: Haiti
+1771	U+1F1ED U+1F1FA	🇭🇺	🇭🇺	—	—	—	—	flag: Hungary
+1772	U+1F1EE U+1F1E8	🇮🇨	🇮🇨	—	—	—	—	flag: Canary Islands
+1773	U+1F1EE U+1F1E9	🇮🇩	🇮🇩	—	—	—	—	flag: Indonesia
+1774	U+1F1EE U+1F1EA	🇮🇪	🇮🇪	—	—	—	—	flag: Ireland
+1775	U+1F1EE U+1F1F1	🇮🇱	🇮🇱	—	—	—	—	flag: Israel
+1776	U+1F1EE U+1F1F2	🇮🇲	🇮🇲	—	—	—	—	flag: Isle of Man
+1777	U+1F1EE U+1F1F3	🇮🇳	🇮🇳	—	—	—	—	flag: India
+1778	U+1F1EE U+1F1F4	🇮🇴	🇮🇴	—	—	—	—	flag: British Indian Ocean Territory
+1779	U+1F1EE U+1F1F6	🇮🇶	🇮🇶	—	—	—	—	flag: Iraq
+1780	U+1F1EE U+1F1F7	🇮🇷	🇮🇷	—	—	—	—	flag: Iran
+1781	U+1F1EE U+1F1F8	🇮🇸	🇮🇸	—	—	—	—	flag: Iceland
+1782	U+1F1EE U+1F1F9	🇮🇹	🇮🇹	🇮🇹	🇮🇹	—	🇮🇹	flag: Italy
+1783	U+1F1EF U+1F1EA	🇯🇪	🇯🇪	—	—	—	—	flag: Jersey
+1784	U+1F1EF U+1F1F2	🇯🇲	🇯🇲	—	—	—	—	flag: Jamaica
+1785	U+1F1EF U+1F1F4	🇯🇴	🇯🇴	—	—	—	—	flag: Jordan
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1786	U+1F1EF U+1F1F5	🇯🇵	🇯🇵	🇯🇵	🇯🇵	—	🇯🇵	flag: Japan
+1787	U+1F1F0 U+1F1EA	🇰🇪	🇰🇪	—	—	—	—	flag: Kenya
+1788	U+1F1F0 U+1F1EC	🇰🇬	🇰🇬	—	—	—	—	flag: Kyrgyzstan
+1789	U+1F1F0 U+1F1ED	🇰🇭	🇰🇭	—	—	—	—	flag: Cambodia
+1790	U+1F1F0 U+1F1EE	🇰🇮	🇰🇮	—	—	—	—	flag: Kiribati
+1791	U+1F1F0 U+1F1F2	🇰🇲	🇰🇲	—	—	—	—	flag: Comoros
+1792	U+1F1F0 U+1F1F3	🇰🇳	🇰🇳	—	—	—	—	flag: St. Kitts & Nevis
+1793	U+1F1F0 U+1F1F5	🇰🇵	🇰🇵	—	—	—	—	flag: North Korea
+1794	U+1F1F0 U+1F1F7	🇰🇷	🇰🇷	🇰🇷	🇰🇷	—	🇰🇷	flag: South Korea
+1795	U+1F1F0 U+1F1FC	🇰🇼	🇰🇼	—	—	—	—	flag: Kuwait
+1796	U+1F1F0 U+1F1FE	🇰🇾	🇰🇾	—	—	—	—	flag: Cayman Islands
+1797	U+1F1F0 U+1F1FF	🇰🇿	🇰🇿	—	—	—	—	flag: Kazakhstan
+1798	U+1F1F1 U+1F1E6	🇱🇦	🇱🇦	—	—	—	—	flag: Laos
+1799	U+1F1F1 U+1F1E7	🇱🇧	🇱🇧	—	—	—	—	flag: Lebanon
+1800	U+1F1F1 U+1F1E8	🇱🇨	🇱🇨	—	—	—	—	flag: St. Lucia
+1801	U+1F1F1 U+1F1EE	🇱🇮	🇱🇮	—	—	—	—	flag: Liechtenstein
+1802	U+1F1F1 U+1F1F0	🇱🇰	🇱🇰	—	—	—	—	flag: Sri Lanka
+1803	U+1F1F1 U+1F1F7	🇱🇷	🇱🇷	—	—	—	—	flag: Liberia
+1804	U+1F1F1 U+1F1F8	🇱🇸	🇱🇸	—	—	—	—	flag: Lesotho
+1805	U+1F1F1 U+1F1F9	🇱🇹	🇱🇹	—	—	—	—	flag: Lithuania
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1806	U+1F1F1 U+1F1FA	🇱🇺	🇱🇺	—	—	—	—	flag: Luxembourg
+1807	U+1F1F1 U+1F1FB	🇱🇻	🇱🇻	—	—	—	—	flag: Latvia
+1808	U+1F1F1 U+1F1FE	🇱🇾	🇱🇾	—	—	—	—	flag: Libya
+1809	U+1F1F2 U+1F1E6	🇲🇦	🇲🇦	—	—	—	—	flag: Morocco
+1810	U+1F1F2 U+1F1E8	🇲🇨	🇲🇨	—	—	—	—	flag: Monaco
+1811	U+1F1F2 U+1F1E9	🇲🇩	🇲🇩	—	—	—	—	flag: Moldova
+1812	U+1F1F2 U+1F1EA	🇲🇪	🇲🇪	—	—	—	—	flag: Montenegro
+1813	U+1F1F2 U+1F1EB	🇲🇫	🇲🇫	—	—	—	—	flag: St. Martin
+1814	U+1F1F2 U+1F1EC	🇲🇬	🇲🇬	—	—	—	—	flag: Madagascar
+1815	U+1F1F2 U+1F1ED	🇲🇭	🇲🇭	—	—	—	—	flag: Marshall Islands
+1816	U+1F1F2 U+1F1F0	🇲🇰	🇲🇰	—	—	—	—	flag: North Macedonia
+1817	U+1F1F2 U+1F1F1	🇲🇱	🇲🇱	—	—	—	—	flag: Mali
+1818	U+1F1F2 U+1F1F2	🇲🇲	🇲🇲	—	—	—	—	flag: Myanmar (Burma)
+1819	U+1F1F2 U+1F1F3	🇲🇳	🇲🇳	—	—	—	—	flag: Mongolia
+1820	U+1F1F2 U+1F1F4	🇲🇴	🇲🇴	—	—	—	—	flag: Macao SAR China
+1821	U+1F1F2 U+1F1F5	🇲🇵	🇲🇵	—	—	—	—	flag: Northern Mariana Islands
+1822	U+1F1F2 U+1F1F6	🇲🇶	🇲🇶	—	—	—	—	flag: Martinique
+1823	U+1F1F2 U+1F1F7	🇲🇷	🇲🇷	—	—	—	—	flag: Mauritania
+1824	U+1F1F2 U+1F1F8	🇲🇸	🇲🇸	—	—	—	—	flag: Montserrat
+1825	U+1F1F2 U+1F1F9	🇲🇹	🇲🇹	—	—	—	—	flag: Malta
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1826	U+1F1F2 U+1F1FA	🇲🇺	🇲🇺	—	—	—	—	flag: Mauritius
+1827	U+1F1F2 U+1F1FB	🇲🇻	🇲🇻	—	—	—	—	flag: Maldives
+1828	U+1F1F2 U+1F1FC	🇲🇼	🇲🇼	—	—	—	—	flag: Malawi
+1829	U+1F1F2 U+1F1FD	🇲🇽	🇲🇽	—	—	—	—	flag: Mexico
+1830	U+1F1F2 U+1F1FE	🇲🇾	🇲🇾	—	—	—	—	flag: Malaysia
+1831	U+1F1F2 U+1F1FF	🇲🇿	🇲🇿	—	—	—	—	flag: Mozambique
+1832	U+1F1F3 U+1F1E6	🇳🇦	🇳🇦	—	—	—	—	flag: Namibia
+1833	U+1F1F3 U+1F1E8	🇳🇨	🇳🇨	—	—	—	—	flag: New Caledonia
+1834	U+1F1F3 U+1F1EA	🇳🇪	🇳🇪	—	—	—	—	flag: Niger
+1835	U+1F1F3 U+1F1EB	🇳🇫	🇳🇫	—	—	—	—	flag: Norfolk Island
+1836	U+1F1F3 U+1F1EC	🇳🇬	🇳🇬	—	—	—	—	flag: Nigeria
+1837	U+1F1F3 U+1F1EE	🇳🇮	🇳🇮	—	—	—	—	flag: Nicaragua
+1838	U+1F1F3 U+1F1F1	🇳🇱	🇳🇱	—	—	—	—	flag: Netherlands
+1839	U+1F1F3 U+1F1F4	🇳🇴	🇳🇴	—	—	—	—	flag: Norway
+1840	U+1F1F3 U+1F1F5	🇳🇵	🇳🇵	—	—	—	—	flag: Nepal
+1841	U+1F1F3 U+1F1F7	🇳🇷	🇳🇷	—	—	—	—	flag: Nauru
+1842	U+1F1F3 U+1F1FA	🇳🇺	🇳🇺	—	—	—	—	flag: Niue
+1843	U+1F1F3 U+1F1FF	🇳🇿	🇳🇿	—	—	—	—	flag: New Zealand
+1844	U+1F1F4 U+1F1F2	🇴🇲	🇴🇲	—	—	—	—	flag: Oman
+1845	U+1F1F5 U+1F1E6	🇵🇦	🇵🇦	—	—	—	—	flag: Panama
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1846	U+1F1F5 U+1F1EA	🇵🇪	🇵🇪	—	—	—	—	flag: Peru
+1847	U+1F1F5 U+1F1EB	🇵🇫	🇵🇫	—	—	—	—	flag: French Polynesia
+1848	U+1F1F5 U+1F1EC	🇵🇬	🇵🇬	—	—	—	—	flag: Papua New Guinea
+1849	U+1F1F5 U+1F1ED	🇵🇭	🇵🇭	—	—	—	—	flag: Philippines
+1850	U+1F1F5 U+1F1F0	🇵🇰	🇵🇰	—	—	—	—	flag: Pakistan
+1851	U+1F1F5 U+1F1F1	🇵🇱	🇵🇱	—	—	—	—	flag: Poland
+1852	U+1F1F5 U+1F1F2	🇵🇲	🇵🇲	—	—	—	—	flag: St. Pierre & Miquelon
+1853	U+1F1F5 U+1F1F3	🇵🇳	🇵🇳	—	—	—	—	flag: Pitcairn Islands
+1854	U+1F1F5 U+1F1F7	🇵🇷	🇵🇷	—	—	—	—	flag: Puerto Rico
+1855	U+1F1F5 U+1F1F8	🇵🇸	🇵🇸	—	—	—	—	flag: Palestinian Territories
+1856	U+1F1F5 U+1F1F9	🇵🇹	🇵🇹	—	—	—	—	flag: Portugal
+1857	U+1F1F5 U+1F1FC	🇵🇼	🇵🇼	—	—	—	—	flag: Palau
+1858	U+1F1F5 U+1F1FE	🇵🇾	🇵🇾	—	—	—	—	flag: Paraguay
+1859	U+1F1F6 U+1F1E6	🇶🇦	🇶🇦	—	—	—	—	flag: Qatar
+1860	U+1F1F7 U+1F1EA	🇷🇪	🇷🇪	—	—	—	—	flag: Réunion
+1861	U+1F1F7 U+1F1F4	🇷🇴	🇷🇴	—	—	—	—	flag: Romania
+1862	U+1F1F7 U+1F1F8	🇷🇸	🇷🇸	—	—	—	—	flag: Serbia
+1863	U+1F1F7 U+1F1FA	🇷🇺	🇷🇺	🇷🇺	🇷🇺	—	🇷🇺	flag: Russia
+1864	U+1F1F7 U+1F1FC	🇷🇼	🇷🇼	—	—	—	—	flag: Rwanda
+1865	U+1F1F8 U+1F1E6	🇸🇦	🇸🇦	—	—	—	—	flag: Saudi Arabia
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1866	U+1F1F8 U+1F1E7	🇸🇧	🇸🇧	—	—	—	—	flag: Solomon Islands
+1867	U+1F1F8 U+1F1E8	🇸🇨	🇸🇨	—	—	—	—	flag: Seychelles
+1868	U+1F1F8 U+1F1E9	🇸🇩	🇸🇩	—	—	—	—	flag: Sudan
+1869	U+1F1F8 U+1F1EA	🇸🇪	🇸🇪	—	—	—	—	flag: Sweden
+1870	U+1F1F8 U+1F1EC	🇸🇬	🇸🇬	—	—	—	—	flag: Singapore
+1871	U+1F1F8 U+1F1ED	🇸🇭	🇸🇭	—	—	—	—	flag: St. Helena, Ascension & Tristan da Cunha
+1872	U+1F1F8 U+1F1EE	🇸🇮	🇸🇮	—	—	—	—	flag: Slovenia
+1873	U+1F1F8 U+1F1EF	🇸🇯	🇸🇯	—	—	—	—	flag: Svalbard & Jan Mayen
+1874	U+1F1F8 U+1F1F0	🇸🇰	🇸🇰	—	—	—	—	flag: Slovakia
+1875	U+1F1F8 U+1F1F1	🇸🇱	🇸🇱	—	—	—	—	flag: Sierra Leone
+1876	U+1F1F8 U+1F1F2	🇸🇲	🇸🇲	—	—	—	—	flag: San Marino
+1877	U+1F1F8 U+1F1F3	🇸🇳	🇸🇳	—	—	—	—	flag: Senegal
+1878	U+1F1F8 U+1F1F4	🇸🇴	🇸🇴	—	—	—	—	flag: Somalia
+1879	U+1F1F8 U+1F1F7	🇸🇷	🇸🇷	—	—	—	—	flag: Suriname
+1880	U+1F1F8 U+1F1F8	🇸🇸	🇸🇸	—	—	—	—	flag: South Sudan
+1881	U+1F1F8 U+1F1F9	🇸🇹	🇸🇹	—	—	—	—	flag: São Tomé & Príncipe
+1882	U+1F1F8 U+1F1FB	🇸🇻	🇸🇻	—	—	—	—	flag: El Salvador
+1883	U+1F1F8 U+1F1FD	🇸🇽	🇸🇽	—	—	—	—	flag: Sint Maarten
+1884	U+1F1F8 U+1F1FE	🇸🇾	🇸🇾	—	—	—	—	flag: Syria
+1885	U+1F1F8 U+1F1FF	🇸🇿	🇸🇿	—	—	—	—	flag: Eswatini
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1886	U+1F1F9 U+1F1E6	🇹🇦	🇹🇦	—	—	—	—	flag: Tristan da Cunha
+1887	U+1F1F9 U+1F1E8	🇹🇨	🇹🇨	—	—	—	—	flag: Turks & Caicos Islands
+1888	U+1F1F9 U+1F1E9	🇹🇩	🇹🇩	—	—	—	—	flag: Chad
+1889	U+1F1F9 U+1F1EB	🇹🇫	🇹🇫	—	—	—	—	flag: French Southern and Antarctic Lands
+1890	U+1F1F9 U+1F1EC	🇹🇬	🇹🇬	—	—	—	—	flag: Togo
+1891	U+1F1F9 U+1F1ED	🇹🇭	🇹🇭	—	—	—	—	flag: Thailand
+1892	U+1F1F9 U+1F1EF	🇹🇯	🇹🇯	—	—	—	—	flag: Tajikistan
+1893	U+1F1F9 U+1F1F0	🇹🇰	🇹🇰	—	—	—	—	flag: Tokelau
+1894	U+1F1F9 U+1F1F1	🇹🇱	🇹🇱	—	—	—	—	flag: Timor-Leste
+1895	U+1F1F9 U+1F1F2	🇹🇲	🇹🇲	—	—	—	—	flag: Turkmenistan
+1896	U+1F1F9 U+1F1F3	🇹🇳	🇹🇳	—	—	—	—	flag: Tunisia
+1897	U+1F1F9 U+1F1F4	🇹🇴	🇹🇴	—	—	—	—	flag: Tonga
+1898	U+1F1F9 U+1F1F7	🇹🇷	🇹🇷	—	—	—	—	flag: Türkiye
+1899	U+1F1F9 U+1F1F9	🇹🇹	🇹🇹	—	—	—	—	flag: Trinidad & Tobago
+1900	U+1F1F9 U+1F1FB	🇹🇻	🇹🇻	—	—	—	—	flag: Tuvalu
+1901	U+1F1F9 U+1F1FC	🇹🇼	🇹🇼	—	—	—	—	flag: Taiwan
+1902	U+1F1F9 U+1F1FF	🇹🇿	🇹🇿	—	—	—	—	flag: Tanzania
+1903	U+1F1FA U+1F1E6	🇺🇦	🇺🇦	—	—	—	—	flag: Ukraine
+1904	U+1F1FA U+1F1EC	🇺🇬	🇺🇬	—	—	—	—	flag: Uganda
+1905	U+1F1FA U+1F1F2	🇺🇲	🇺🇲	—	—	—	—	flag: U.S. Outlying Islands
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1906	U+1F1FA U+1F1F3	🇺🇳	🇺🇳	—	—	—	—	flag: United Nations
+1907	U+1F1FA U+1F1F8	🇺🇸	🇺🇸	🇺🇸	🇺🇸	—	🇺🇸	flag: United States
+1908	U+1F1FA U+1F1FE	🇺🇾	🇺🇾	—	—	—	—	flag: Uruguay
+1909	U+1F1FA U+1F1FF	🇺🇿	🇺🇿	—	—	—	—	flag: Uzbekistan
+1910	U+1F1FB U+1F1E6	🇻🇦	🇻🇦	—	—	—	—	flag: Vatican City
+1911	U+1F1FB U+1F1E8	🇻🇨	🇻🇨	—	—	—	—	flag: St. Vincent & Grenadines
+1912	U+1F1FB U+1F1EA	🇻🇪	🇻🇪	—	—	—	—	flag: Venezuela
+1913	U+1F1FB U+1F1EC	🇻🇬	🇻🇬	—	—	—	—	flag: British Virgin Islands
+1914	U+1F1FB U+1F1EE	🇻🇮	🇻🇮	—	—	—	—	flag: U.S. Virgin Islands
+1915	U+1F1FB U+1F1F3	🇻🇳	🇻🇳	—	—	—	—	flag: Vietnam
+1916	U+1F1FB U+1F1FA	🇻🇺	🇻🇺	—	—	—	—	flag: Vanuatu
+1917	U+1F1FC U+1F1EB	🇼🇫	🇼🇫	—	—	—	—	flag: Wallis & Futuna
+1918	U+1F1FC U+1F1F8	🇼🇸	🇼🇸	—	—	—	—	flag: Samoa
+1919	U+1F1FD U+1F1F0	🇽🇰	🇽🇰	—	—	—	—	flag: Kosovo
+1920	U+1F1FE U+1F1EA	🇾🇪	🇾🇪	—	—	—	—	flag: Yemen
+1921	U+1F1FE U+1F1F9	🇾🇹	🇾🇹	—	—	—	—	flag: Mayotte
+1922	U+1F1FF U+1F1E6	🇿🇦	🇿🇦	—	—	—	—	flag: South Africa
+1923	U+1F1FF U+1F1F2	🇿🇲	🇿🇲	—	—	—	—	flag: Zambia
+1924	U+1F1FF U+1F1FC	🇿🇼	🇿🇼	—	—	—	—	flag: Zimbabwe
+subdivision-flag
+№	Code	Browser	Sample	GMail	SB	DCM	KDDI	CLDR Short Name
+1925	U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F	🏴󠁧󠁢󠁥󠁮󠁧󠁿	🏴󠁧󠁢󠁥󠁮󠁧󠁿	—	—	—	—	flag: England
+1926	U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F	🏴󠁧󠁢󠁳󠁣󠁴󠁿	🏴󠁧󠁢󠁳󠁣󠁴󠁿	—	—	—	—	flag: Scotland
+1927	U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F	🏴󠁧󠁢󠁷󠁬󠁳󠁿	🏴󠁧󠁢󠁷󠁬󠁳󠁿	—	—	—	—	flag: Wales
+Sample images are from Noto Color Emoji.
+
+
+Access to Copyright and terms of use
